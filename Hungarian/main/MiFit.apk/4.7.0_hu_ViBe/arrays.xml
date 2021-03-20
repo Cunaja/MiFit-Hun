@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="amazfit_wear_type">
+        <item>@string/wear_wrist</item>
+        <item>@string/wear_neck</item>
+    </string-array>
+    <string-array name="avoid_type">
+        <item>@string/state_close</item>
+        <item>@string/avoid_enable_smart</item>
+        <item>@string/avoid_enable_time</item>
+    </string-array>
+    <string-array name="avoid_type_sub">
+        <item></item>
+        <item>@string/avoid_enable_smart_sub</item>
+        <item>@string/avoid_enable_time_sub</item>
+    </string-array>
+    <string-array name="blue_monkey_tips">
+        <item>@string/blue_monkey_help_tips_1</item>
+        <item>@string/blue_monkey_help_tips_2</item>
+        <item>@string/blue_monkey_help_tips_3</item>
+        <item>@string/blue_monkey_help_tips_4</item>
+    </string-array>
+    <string-array name="blue_monkey_titles">
+        <item>@string/blue_monkey_help_title_1</item>
+        <item>@string/blue_monkey_help_title_2</item>
+        <item>@string/blue_monkey_help_title_3</item>
+        <item>@string/blue_monkey_help_title_4</item>
+    </string-array>
+    <string-array name="bmi_for_adualt">
+        <item>Alacsony</item>
+        <item>Normál</item>
+        <item>Magas</item>
+        <item>Nagyon magas</item>
+    </string-array>
+    <string-array name="bmi_for_child">
+        <item>Normál</item>
+        <item>Magas</item>
+        <item>Nagyon magas</item>
+    </string-array>
+    <string-array name="bmi_for_not_chinese">
+        <item>Alacsony</item>
+        <item>Normál</item>
+        <item>Emelkedett</item>
+        <item>Magas</item>
+        <item>Nagyon magas</item>
+    </string-array>
+    <string-array name="body_score_leval">
+        <item>Nagyon rossz</item>
+        <item>Rossz</item>
+        <item>Közepes</item>
+        <item>Jó</item>
+        <item>Kiváló</item>
+    </string-array>
+    <string-array name="body_shape_type_array">
+        <item>Vékony</item>
+        <item>Kiegyensúlyozottan sovány</item>
+        <item>Sovány izmos</item>
+        <item>Edzéshiányos</item>
+        <item>Kiegyensúlyozott</item>
+        <item>Kiegyensúlyozottan izmos</item>
+        <item>Elhízott</item>
+        <item>Túlsúlyos</item>
+        <item>Zömök</item>
+    </string-array>
+    <string-array name="bodyfat_content_leval">
+        <item>Nagyon alacsony</item>
+        <item>Alacsony</item>
+        <item>Normál</item>
+        <item>Emelkedett</item>
+        <item>Magas</item>
+    </string-array>
+    <string-array name="bone_leval">
+        <item>Elégtelen</item>
+        <item>Normál</item>
+        <item>Jó</item>
+    </string-array>
+    <string-array name="brm_leval">
+        <item>Nem érte el a célt</item>
+        <item>Cél elérve</item>
+    </string-array>
+    <string-array name="chaohu_help_tips">
+        <item>Nyomja meg a gombot az órán, ha a kijelző sötét marad, dugja be tölteni az akkumulátort.</item>
+        <item>@string/band_watch_item_2</item>
+        <item>"Ha a karkötő fel van töltve, de a telefon mégsem látja, próbálja meg újraindítani a Bluetooth-t a telefonon."</item>
+        <item>"Ha a Bluetooth újraindítása nem oldja meg a problémát, indítsa újra a telefonját."</item>
+        <item>"Óra adatok nem szinkronizálhatóak a gyakorlás alatt. Fejezze be a folyamatot és próbálja újra."</item>
+        <item>@string/watch_music_running_tips</item>
+    </string-array>
+    <string-array name="chaohu_help_title">
+        <item>Az óra fel van töltve?</item>
+        <item>Az óra párosítva van másik eszközzel?</item>
+        <item>Próbálja újraindítani a Bluetooth-t</item>
+        <item>Próbálja meg újraindítani a telefont</item>
+        <item>"Edzések alatt az adatok nem szinkronizálhatóak"</item>
+        <item>@string/watch_music_running_title</item>
+    </string-array>
+    <string-array name="chaohu_setting_run_types">
+        <item>@string/chaohu_setting_run_outdoor</item>
+        <item>@string/chaohu_setting_run_indoor</item>
+        <item>@string/chaohu_setting_run_ride</item>
+        <item>@string/chaohu_setting_run_walk</item>
+    </string-array>
+    <string-array name="colors">
+        <item>@string/blue</item>
+        <item>@string/orange</item>
+        <item>@string/green</item>
+        <item>@string/red</item>
+    </string-array>
+    <string-array name="common_cities">
+        <item>Kanton</item>
+        <item>Sencsen</item>
+        <item>Foshan</item>
+        <item>Tungkuan</item>
+        <item>Peking</item>
+        <item>Nanking</item>
+        <item>Szucsou</item>
+        <item>Csangcsou</item>
+        <item>Csinan</item>
+        <item>Csingtao</item>
+        <item>Hangcsou</item>
+        <item>Ningpo</item>
+        <item>Csengcsou</item>
+        <item>Kaifeng</item>
+        <item>Sanghaj</item>
+        <item>Sicsiacsuang</item>
+        <item>Baoding</item>
+        <item>Csengtu</item>
+        <item>Mianyang</item>
+        <item>Senjang</item>
+        <item>Talien</item>
+    </string-array>
+    <string-array name="common_level">
+        <item>Elégtelen</item>
+        <item>Normál</item>
+        <item>Jó</item>
+    </string-array>
+    <string-array name="difficulty_content">
+        <item>Újonc a fitnesz edzések terén</item>
+        <item>Alapszintű fitnesz tapasztalatai vannak</item>
+        <item>Komoly fitnesz tapasztalatai vannak és jó alakú</item>
+    </string-array>
+    <string-array name="difficulty_title">
+        <item>Alapfokú</item>
+        <item>Középfokú</item>
+        <item>Haladó</item>
+    </string-array>
+    <string-array name="event_remind_weeks">
+        <item>@string/event_remind_every_monday</item>
+        <item>@string/event_remind_every_tuesday</item>
+        <item>@string/event_remind_every_wednesday</item>
+        <item>@string/event_remind_every_thursday</item>
+        <item>@string/event_remind_every_friday</item>
+        <item>@string/event_remind_every_saturday</item>
+        <item>@string/event_remind_every_sunday</item>
+    </string-array>
+    <string-array name="exercise_day_chart_x">
+        <item>00:00</item>
+        <item>06:00</item>
+        <item>12:00</item>
+        <item>18:00</item>
+        <item>23:59</item>
+    </string-array>
+    <string-array name="feed_back_tag_arr">
+        <item>Készülék-kapcsolat</item>
+        <item>Termék-optimalizálás</item>
+        <item>Utazókártya</item>
+        <item>Beléptető kártya</item>
+        <item>Futással kapcsolatos</item>
+        <item>Edzéssel kapcsolatos</item>
+        <item>Egyéb</item>
+    </string-array>
+    <string-array name="fitness_goal_content">
+        <item>Célja a zsírégetés</item>
+        <item>Célja az alakformálás</item>
+        <item>Célja a testépítés</item>
+    </string-array>
+    <string-array name="fitness_goal_title">
+        <item>Fogyás</item>
+        <item>Alakformálás</item>
+        <item>Izomnövelés</item>
+    </string-array>
+    <string-array name="ges_screen_type">
+        <item>@string/ges_screen_type_all_day</item>
+        <item>@string/ges_screen_type_time</item>
+        <item>@string/ges_screen_type_close</item>
+    </string-array>
+    <string-array name="hr_sport">
+        <item>Pulzusszám-tartomány: Bemelegítés</item>
+        <item>Pulzusszám-tartomány: Intenzív</item>
+        <item>Pulzusszám-tartomány: Aerob</item>
+        <item>Pulzusszám-tartomány: Anaerob</item>
+        <item>Pulzusszám-tartomány: VO₂ max</item>
+    </string-array>
+    <string-array name="hr_sport_new">
+        <item>Könnyű</item>
+        <item>Intenzív</item>
+        <item>Aerob</item>
+        <item>Anaerob</item>
+        <item>VO₂ max</item>
+    </string-array>
+    <string-array name="lock_screen_type">
+        <item>Szorosan mellettem</item>
+        <item>Közel</item>
+        <item>Távol</item>
+    </string-array>
+    <string-array name="member_add_weight_items">
+        <item>@string/member_add_weight_item_auto</item>
+        <item>@string/member_add_weight_item_manual</item>
+    </string-array>
+    <string-array name="mili_help_tips">
+        <item>"Érintse meg a karkötőn lévő gombot, hogy ellenőrizze, hogy a kijelző világít-e. Ha nem, töltse fel a karkötőt.
+
+Töltse fel az eszközt, mielőtt egy %1$s vagy %2$s eszközt párosítana."</item>
+        <item>@string/band_watch_item_2</item>
+        <item>"Ha a karkötő fel van töltve, de a telefon mégsem látja, próbálja meg újrandítani a Bluetooth-t a telefonon."</item>
+        <item>"Ha a Bluetooth újraindítása nem oldotta meg a problémát, indítsa újra a telefont."</item>
+        <item>@string/helper_sport_running</item>
+        <item>@string/helper_music_running</item>
+    </string-array>
+    <string-array name="mili_help_title">
+        <item>Fel van töltve a Mi Band?</item>
+        <item>A Mi Band párosítva van egy másik telefonhoz?</item>
+        <item>@string/help_title_2</item>
+        <item>Próbálja meg újraindítani a telefont</item>
+        <item>@string/unable_sync_in_sport</item>
+        <item>@string/unable_sync_in_music</item>
+    </string-array>
+    <string-array name="mili_pro_display_items">
+        <item>Idő</item>
+        <item>Lépés</item>
+        <item>Távolság</item>
+        <item>Kalória</item>
+        <item>Pulzusszám</item>
+        <item>Akkumulátor</item>
+    </string-array>
+    <string-array name="month_list">
+        <item>Jan</item>
+        <item>Febr</item>
+        <item>Már</item>
+        <item>Ápr</item>
+        <item>Máj</item>
+        <item>Jún</item>
+        <item>Júl</item>
+        <item>Aug</item>
+        <item>Szept</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="muscle_content_leval">
+        <item>Elégtelen</item>
+        <item>Normál</item>
+        <item>Jó</item>
+    </string-array>
+    <string-array name="night_mode_array">
+        <item>@string/close</item>
+        <item>@string/night_mode_open_after_sunset</item>
+        <item>@string/night_mode_open_time</item>
+    </string-array>
+    <string-array name="one_foot_score_levels">
+        <item>Nagyon rossz</item>
+        <item>Rossz</item>
+        <item>Átlagos</item>
+        <item>Jó</item>
+        <item>Nagyon jó</item>
+    </string-array>
+    <string-array name="ring_types">
+        <item>@string/ring_type_default</item>
+        <item>@string/ring_type_incall</item>
+    </string-array>
+    <string-array name="running_months">
+        <item>Jan</item>
+        <item>Febr</item>
+        <item>Márc</item>
+        <item>Ápr</item>
+        <item>Máj</item>
+        <item>Jún</item>
+        <item>Júl</item>
+        <item>Aug</item>
+        <item>Szept</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="setting_hr_freq_types">
+        <item>@string/setting_heartrate_detect_freq_1</item>
+        <item>@string/setting_heartrate_detect_freq_10</item>
+        <item>@string/setting_heartrate_detect_freq_30</item>
+    </string-array>
+    <string-array name="setting_hr_freq_types_new">
+        <item>@string/setting_heartrate_detect_freq_1</item>
+        <item>@string/setting_heartrate_detect_freq_5</item>
+        <item>@string/setting_heartrate_detect_freq_10</item>
+        <item>@string/setting_heartrate_detect_freq_30</item>
+    </string-array>
+    <string-array name="setting_hr_types">
+        <item>@string/setting_heartrate_detect_auto</item>
+        <item>@string/setting_heartrate_detect_sleep</item>
+        <item>@string/close</item>
+    </string-array>
+    <string-array name="setting_peyto_apps_array">
+        <item>Számlap</item>
+        <item>Állapot</item>
+        <item>Tevékenység</item>
+        <item>Időjárás</item>
+        <item>Ébresztés</item>
+        <item>Óra</item>
+        <item>Iránytű</item>
+        <item>További beállítások</item>
+    </string-array>
+    <string-array name="setting_tempo_apps_array">
+        <item>Számlap</item>
+        <item>Állapot</item>
+        <item>Értesítések</item>
+        <item>Tevékenység</item>
+        <item>Időjárás</item>
+        <item>Ébresztés</item>
+        <item>Óra</item>
+        <item>Beállítások</item>
+        <item>@string/bind_alipay</item>
+        <item>@string/setting_app_music</item>
+    </string-array>
+    <string-array name="setting_weather_temp_unit_array">
+        <item>@string/setting_weather_temp_c</item>
+        <item>@string/setting_weather_temp_f</item>
+    </string-array>
+    <string-array name="shoes_help_tips">
+        <item>"%1$s működése leáll, ha hosszabb ideig nem használja. Rázza meg a(z) %2$s-t, és próbálja újra."</item>
+        <item>"%s elemének élettartama 1 év. Több, mint 1 év használat után előfordulhat, hogy az elem élettartama lejárt."</item>
+        <item>Először kapcsolja ki a Bluetooth-t a másik eszközön, aztán párosítsa a telefonjával.</item>
+        <item>"Ha a(z) %s fel van töltve, de a telefon mégsem látja, próbálja meg újraindítani a Bluetooth-t a telefonon."</item>
+        <item>"Ha a Bluetooth újraindítása nem oldotta meg a problémát, indítsa újra a telefont."</item>
+        <item>Érintse meg a futócipő adatokat, és az automatikus szinkronizálásához lépjen a következő tevékenység oldalra</item>
+    </string-array>
+    <string-array name="shoes_help_title">
+        <item>Rázza meg az eszközt: %s</item>
+        <item>A(z) %s fel van töltve?</item>
+        <item>A(z) %s párosítva van egy másik telefonhoz a közelben?</item>
+        <item>Bluetooth újraindítása</item>
+        <item>Próbálja meg újraindítani a telefont</item>
+        <item>Hogyan szinkronizálja az adatokat?</item>
+    </string-array>
+    <string-array name="show_body_shape_array">
+        <item>Elhízott</item>
+        <item>Túlsúlyos</item>
+        <item>Zömök</item>
+        <item>"Edzéshiányos"
+</item>
+        <item>Kiegyensúlyozott</item>
+        <item>"Kiegyensúlyozottan
+izmos"</item>
+        <item>Vékony</item>
+        <item>"Kiegyensúlyozottan
+sovány"</item>
+        <item>"Sovány
+izmos"</item>
+    </string-array>
+    <string-array name="timeline_type">
+        <item>Tevékenység</item>
+        <item>Lassú gyaloglás</item>
+        <item>Gyaloglás</item>
+        <item>Ütemes gyaloglás</item>
+        <item>Futás</item>
+        <item>Álldogálás</item>
+        <item>Ülés</item>
+        <item>Könnyű tevékenység</item>
+        <item>Viselés nélkül</item>
+        <item>Töltés…</item>
+        <item>Fekvés</item>
+    </string-array>
+    <string-array name="train_difficulity">
+        <item>Nincs korlátozva</item>
+        <item>Alap, 1</item>
+        <item>Közepes, 2</item>
+        <item>Haladó, 3</item>
+    </string-array>
+    <string-array name="unbind_device_description">
+        <item>@string/device_band</item>
+        <item>@string/device_weight</item>
+        <item>@string/device_shoe</item>
+        <item>@string/device_watch</item>
+        <item>@string/smart_module</item>
+    </string-array>
+    <string-array name="visceral_fat_leval">
+        <item>Normál</item>
+        <item>Magas</item>
+        <item>Nagyon magas</item>
+    </string-array>
+    <string-array name="water_leval">
+        <item>Elégtelen</item>
+        <item>Normál</item>
+        <item>Jó</item>
+    </string-array>
+    <string-array name="wear_type">
+        <item>@string/left_hand</item>
+        <item>@string/right_hand</item>
+    </string-array>
+    <string-array name="wear_type_body">
+        <item>@string/left_hand</item>
+        <item>@string/right_hand</item>
+        <item>@string/body</item>
+    </string-array>
+    <string-array name="wear_type_chest">
+        <item>@string/left_hand</item>
+        <item>@string/right_hand</item>
+        <item>@string/chest</item>
+    </string-array>
+    <string-array name="week_name">
+        <item>V</item>
+        <item>H</item>
+        <item>K</item>
+        <item>Sze</item>
+        <item>Cs</item>
+        <item>P</item>
+        <item>Szo</item>
+    </string-array>
+    <string-array name="weeks">
+        <item>Hétfő</item>
+        <item>Kedd</item>
+        <item>Szerda</item>
+        <item>Csütörtök</item>
+        <item>Péntek</item>
+        <item>Szombat</item>
+        <item>Vasárnap</item>
+    </string-array>
+    <string-array name="weeks_short">
+        <item>h</item>
+        <item>k</item>
+        <item>sze</item>
+        <item>cs</item>
+        <item>p</item>
+        <item>szo</item>
+        <item>v</item>
+    </string-array>
+    <string-array name="weight3_body_figures">
+        <item>Sovány</item>
+        <item>Kiegyensúlyozott</item>
+        <item>Túlsúlyos</item>
+        <item>Elhízott</item>
+    </string-array>
+    <string-array name="weight_bfs_help_tips">
+        <item>Először kapcsolja ki a Bluetooth-t a másik eszközön, aztán párosítsa a telefonjával.</item>
+        <item>Lépjen a mérlegre, hogy lássa, mutatja-e a súlyát. Ha egy akkumulátor ikon jelenik meg, cserélje ki az elemeket.</item>
+        <item>Ha nincs visszajelzés, ha rálép a mérlegre, ellenőrizze, hogy az elemek helyesen lettek behelyezve.</item>
+        <item>Ha az eszköz fel van töltve, de a telefon mégsem látja, próbálja meg újraindítani a Bluetooth-t a telefonon.</item>
+        <item>Ha a Bluetooth újraindítása nem oldja meg a problémát, indítsa újra a telefonját.</item>
+    </string-array>
+    <string-array name="weight_bfs_help_title">
+        <item>Ez a mérleg párosítva van egy másik eszközzel?</item>
+        <item>Ellenőrizze a mérleg elemét</item>
+        <item>Az elemek helyesen lettek behelyezve?</item>
+        <item>@string/help_title_2</item>
+        <item>Próbálja meg újraindítani a telefont</item>
+    </string-array>
+    <string-array name="weight_body_figures_for_child">
+        <item>Normál</item>
+        <item>Túlsúlyos</item>
+        <item>Elhízott</item>
+    </string-array>
+    <string-array name="weight_body_figures_for_not_chinese">
+        <item>Sovány</item>
+        <item>Normál</item>
+        <item>Túlsúlyos</item>
+        <item>Elhízott I</item>
+        <item>Elhízott II</item>
+    </string-array>
+    <string-array name="weight_unit">
+        <item>" kg"</item>
+        <item>" Jin"</item>
+        <item>" font"</item>
+    </string-array>
+    <string-array name="weightbfs_unit_array">
+        <item>@string/weight_bfs_unit_kg</item>
+        <item>@string/weight_bfs_unit_pound</item>
+        <item>@string/weight_bfs_unit_jin</item>
+    </string-array>
+    <string-array name="weightbfs_unit_array_no_jin">
+        <item>@string/weight_bfs_unit_kg</item>
+        <item>@string/weight_bfs_unit_pound</item>
+    </string-array>
+</resources>

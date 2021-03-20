@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="action_amout">
+        <item quantity="other">%d tanfolyam</item>
+        <item quantity="one">%d tanfolyam</item>
+    </plurals>
+    <plurals name="bf3_compare_last_mon">
+        <item quantity="other">Összehasonlítva %1$d nappal ezelőttivel</item>
+        <item quantity="one">Összehasonlítva %1$d nappal ezelőttivel</item>
+    </plurals>
+    <plurals name="bodyfat_3_health">
+        <item quantity="other">%d cél elérve</item>
+        <item quantity="one">%d cél elérve</item>
+    </plurals>
+    <plurals name="bodyfat_3_need_attention">
+        <item quantity="other">%d elem igényel figyelmet</item>
+        <item quantity="one">%d elem igényel figyelmet</item>
+    </plurals>
+    <plurals name="bodyfat_3_not_up_to_standard">
+        <item quantity="other">%d elem nem érte el a célt</item>
+        <item quantity="one">%d elem nem érte el a célt</item>
+    </plurals>
+    <plurals name="course_number">
+        <item quantity="other">%d tanfolyam</item>
+        <item quantity="one">%d tanfolyam</item>
+    </plurals>
+    <plurals name="course_will_start_xdays_after">
+        <item quantity="other">A kurzus %d nap múlva kezdődik</item>
+        <item quantity="one">A kurzus %d nap múlva kezdődik</item>
+    </plurals>
+    <plurals name="fh_cal">
+        <item quantity="other">%1$d kcal</item>
+        <item quantity="one">%1$d kcal</item>
+    </plurals>
+    <plurals name="fh_cal_en">
+        <item quantity="other">%1$d kcal</item>
+        <item quantity="one">%1$d kcal</item>
+    </plurals>
+    <plurals name="fh_course_number">
+        <item quantity="other">%1$s lessons</item>
+        <item quantity="one">%1$s lesson</item>
+    </plurals>
+    <plurals name="fh_study_number">
+        <item quantity="other">%1$s viewers</item>
+        <item quantity="one">%1$s viewer</item>
+    </plurals>
+    <plurals name="fh_time_day_var">
+        <item quantity="other">%1$dd</item>
+        <item quantity="one">%1$dd</item>
+    </plurals>
+    <plurals name="have_finish_x_times_training">
+        <item quantity="other">%d edzés befejezve</item>
+        <item quantity="one">%d edzés befejezve</item>
+    </plurals>
+    <plurals name="how_many_times">
+        <item quantity="other">Edzés %d</item>
+        <item quantity="one">Edzés %d</item>
+    </plurals>
+    <plurals name="input_out_of_max">
+        <item quantity="other">Legfeljebb %d karaktert írhat be</item>
+        <item quantity="one">Legfeljebb %d karaktert írhat be</item>
+    </plurals>
+    <plurals name="learn_time_remained">
+        <item quantity="other">%d nap van hátra</item>
+        <item quantity="one">%d nap van hátra</item>
+    </plurals>
+    <plurals name="learn_times">
+        <item quantity="other">%d megtekintés</item>
+        <item quantity="one">%d megtekintés</item>
+    </plurals>
+    <plurals name="message_center_hour">
+        <item quantity="other">%d órával ezelőtt</item>
+        <item quantity="one">%d órával ezelőtt</item>
+    </plurals>
+    <plurals name="message_center_minute">
+        <item quantity="other">%d perccel ezelőtt</item>
+        <item quantity="one">%d perccel ezelőtt</item>
+    </plurals>
+    <plurals name="next_rest_time">
+        <item quantity="other">%d\"</item>
+        <item quantity="one">%d\"</item>
+    </plurals>
+    <plurals name="next_rest_time_seconds">
+        <item quantity="other">%d mp</item>
+        <item quantity="one">%d mp</item>
+    </plurals>
+    <plurals name="numberFoot">
+        <item quantity="other">%s láb</item>
+        <item quantity="one">%s láb</item>
+    </plurals>
+    <plurals name="numberInch">
+        <item quantity="other">%s hüvelyk</item>
+        <item quantity="one">%s hüvelyk</item>
+    </plurals>
+    <plurals name="one_foot_time_seconds">
+        <item quantity="other">%dmp</item>
+        <item quantity="one">%dmp</item>
+    </plurals>
+    <plurals name="pai_suggest_and_heart_min">
+        <item quantity="other">%$d min</item>
+        <item quantity="one">%$d min</item>
+    </plurals>
+    <plurals name="people_attended">
+        <item quantity="other">%d résztvevő</item>
+        <item quantity="one">%d résztvevő</item>
+    </plurals>
+    <plurals name="picker_number_of_items_selected">
+        <item quantity="other">%1$d elem kiválasztva</item>
+        <item quantity="one">%1$d elem kiválasztva</item>
+    </plurals>
+    <plurals name="running_record_free_training_times">
+        <item quantity="other">%1$d freestyle trainings</item>
+        <item quantity="one">%1$d freestyle training</item>
+    </plurals>
+    <plurals name="running_record_training_times">
+        <item quantity="other">Edzés: %1$d alkalom</item>
+        <item quantity="one">Edzés: %1$d alkalom</item>
+    </plurals>
+    <plurals name="running_record_workout_times">
+        <item quantity="other">Gyakorlat: %1$d kör</item>
+        <item quantity="one">Gyakorlat: %1$d kör</item>
+    </plurals>
+    <plurals name="start_train_after_x_day">
+        <item quantity="other">%s nap múlva kezdődik</item>
+        <item quantity="one">%s nap múlva kezdődik</item>
+    </plurals>
+    <plurals name="too_old_for_calculate">
+        <item quantity="other">%d évnél idősebb személyeket nem lehet elemezni</item>
+        <item quantity="one">%d évnél idősebb személyeket nem lehet elemezni</item>
+    </plurals>
+    <plurals name="too_young_for_calculate">
+        <item quantity="other">%d évnél fiatalabb személyeket nem lehet elemezni</item>
+        <item quantity="one">%d évnél fiatalabb személyeket nem lehet elemezni</item>
+    </plurals>
+    <plurals name="tr_cal">
+        <item quantity="other">%d kcal</item>
+        <item quantity="one">%d kcal</item>
+    </plurals>
+    <plurals name="tr_course_number">
+        <item quantity="other">%d tanfolyam</item>
+        <item quantity="one">%d tanfolyam</item>
+    </plurals>
+    <plurals name="tr_expiry">
+        <item quantity="other">Tanfolyam lejár %d nap múlva</item>
+        <item quantity="one">Tanfolyam lejár %d nap múlva</item>
+    </plurals>
+    <plurals name="tr_study_number">
+        <item quantity="other">%d megtekintő</item>
+        <item quantity="one">%d megtekintő</item>
+    </plurals>
+    <plurals name="tr_total_group_number">
+        <item quantity="other">Összes sorozat: %d</item>
+        <item quantity="one">Összes sorozat: %d</item>
+    </plurals>
+    <plurals name="tr_train_times">
+        <item quantity="other">Tanulással töltött idő: %d</item>
+        <item quantity="one">Tanulással töltött idő: %d</item>
+    </plurals>
+    <plurals name="tr_wait_x_days_then_begin">
+        <item quantity="other">%d nap múlva kezdődik</item>
+        <item quantity="one">%d nap múlva kezdődik</item>
+    </plurals>
+    <plurals name="train_day_format">
+        <item quantity="other">Legutóbbi edzés: %d napja</item>
+        <item quantity="one">Legutóbbi edzés: %d napja</item>
+    </plurals>
+    <plurals name="training_consume_time_min">
+        <item quantity="other">Edzésidő:  %1$d perc</item>
+        <item quantity="one">Edzésidő:  %1$d perc</item>
+    </plurals>
+    <plurals name="training_consume_time_sec">
+        <item quantity="other">Edzésidő:  %1$d mp</item>
+        <item quantity="one">Edzésidő:  %1$d mp</item>
+    </plurals>
+    <plurals name="training_notify_content">
+        <item quantity="other">Az edzésmenet %1$d. napja: Teljesítenie kell a következőt: %3$s (%2$d perc)</item>
+        <item quantity="one">Az edzésmenet %1$d. napja: Teljesítenie kell a következőt: %3$s (%2$d perc)</item>
+    </plurals>
+    <plurals name="training_playing_title_time">
+        <item quantity="other"> %1$d  másodperc</item>
+        <item quantity="one"> %1$d  másodperc</item>
+    </plurals>
+    <plurals name="training_playing_title_times">
+        <item quantity="other"> %1$d  alkalom</item>
+        <item quantity="one"> %1$d  alkalom</item>
+    </plurals>
+    <plurals name="training_rest_interval_time">
+        <item quantity="other">Szüneteltetve:  %1$d mp</item>
+        <item quantity="one">Szüneteltetve:  %1$d mp</item>
+    </plurals>
+    <plurals name="with_kcal">
+        <item quantity="other">%d kcal</item>
+        <item quantity="one">%d kcal</item>
+    </plurals>
+    <plurals name="with_minute_time">
+        <item quantity="other">%d p</item>
+        <item quantity="one">%d p</item>
+    </plurals>
+    <plurals name="with_minute_time_level">
+        <item quantity="other">%1$d perc  %2$s</item>
+        <item quantity="one">%1$d perc  %2$s</item>
+    </plurals>
+    <plurals name="with_unit_times">
+        <item quantity="other">%d folyamat</item>
+        <item quantity="one">%d folyamat</item>
+    </plurals>
+</resources>

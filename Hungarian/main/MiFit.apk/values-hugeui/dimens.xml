@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="home_title_table">@dimen/font_27</item>
+    <item type="dimen" name="list_detail_item_bottom_result_text_size">@dimen/font_12</item>
+    <item type="dimen" name="list_detail_item_subtitle_text_size">@dimen/font_11</item>
+    <item type="dimen" name="list_detail_item_title_text_size">@dimen/font_13</item>
+    <item type="dimen" name="list_detail_item_top_result_text_size">@dimen/font_12</item>
+    <item type="dimen" name="sporting_Info_key">@dimen/font_10</item>
+    <item type="dimen" name="sporting_Info_value">@dimen/font_15</item>
+    <item type="dimen" name="pace_record_text_size">@dimen/font_16</item>
+</resources>

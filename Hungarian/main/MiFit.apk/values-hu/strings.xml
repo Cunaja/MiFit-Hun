@@ -882,11 +882,11 @@ Próbáljon kiegyensúlyozott maradni a napi kalcium bevitellel, 15 perc napozá
     <string name="fh_difficulty_junior">Beginner</string>
     <string name="fh_difficulty_senior">Advanced</string>
     <string name="fh_edit">Edit</string>
-    <string name="fh_enable_predict">开启预测</string>
-    <string name="fh_enable_predict_desc">开启后可根据你的历史数据进行经期等生理周期的智能预测</string>
-    <string name="fh_enable_predict_title">是否开启生理期智能预测？</string>
-    <string name="fh_err_dialog_msg">The start date should be earlier than the end date</string>
-    <string name="fh_expand">More</string>
+    <string name="fh_enable_predict">Az előrejelzés bekapcsolása</string>
+    <string name="fh_enable_predict_desc">Ha be van kapcsolva, intelligens előrejelzéseket lehet tenni a fiziológiai ciklusokra, például a menstruációra a korábbi adatok alapján</string>
+    <string name="fh_enable_predict_title">Bekapcsolja a fiziológiai időszak intelligens előrejelzését?</string>
+    <string name="fh_err_dialog_msg">A kezdési dátumnak a befejezési dátumnál korábbinak kell lennie.</string>
+    <string name="fh_expand">Több</string>
     <string name="fh_female_health">Cycles</string>
     <string name="fh_female_health_desc">This feature helps women record and predict menstrual cycles</string>
     <string name="fh_forecast_period">Predicted menstrual period</string>
@@ -2644,4 +2644,41 @@ A kártya aktiválásához kb. 2 perc szükséges…"</string>
     <string name="yyyy_mm_dd_hh_mm">yyyy.MM.dd. HH:mm</string>
     <string name="zoom_in">Kicsinyítés</string>
     <string name="zoom_out">Nagyítás</string>
+    <string name="settings_mod_auto_update">Frissítés engedélyezése</string>
+    <string name="settings_mod_auto_update_desc">Eszköz automatikus frissítésének engedélyezése. Alapesetben csak ellenőrzés történik.</string>
+    <string name="settings_mod_force_language">Nyelvi beállítás felülírása</string>
+    <string name="settings_mod_force_language_desc">Adott nyelv használatára kényszeríti az eszközt. Egyes nyelvek használata bizonyos firmware verziókkal nem engedélyezet vagy a használatukhoz módosított firmware/felület szükséges.</string>
+    <string name="settings_mod_music_latin">Dalok címkéjének konvertálása</string>
+    <string name="settings_mod_music_latin_desc">Dalok címkéjében megjelenő ékezetes betűk konvertálása.</string>
+    <string name="settings_mod_music_no_emoticons">Hangulatjelek mellőzése</string>
+    <string name="settings_mod_music_no_emoticons_desc">Hangulatjelek eltávolítása a lejátszott dal címkéjéből.</string>
+    <string name="settings_mod_music_uppercase">Nagybetűs címkék</string>
+    <string name="settings_mod_music_uppercase_desc">Dalok címkéjének megjelenítése nagybetűkkel.</string>
+    <string name="settings_mod_notification_latin">Értesítések konvertálása</string>
+    <string name="settings_mod_notification_latin_desc">Értesítésekben/üzenetekben megjelenő ékezetes betűk konvertálása.</string>
+    <string name="settings_mod_notification_no_emoticons">Hangulatjelek eltávolítása</string>
+    <string name="settings_mod_notification_no_emoticons_desc">Hangulatjelek eltávolítása az értesítésekből.</string>
+    <string name="settings_mod_notification_uppercase">Nagybetűs értesítések</string>
+    <string name="settings_mod_notification_uppercase_desc">Értesítések megjelenítése nagybetűkkel.</string>
+    <string name="settings_mod_title_auth_key">Hitelesítés</string>
+    <string name="settings_mod_title_global">Általános</string>
+    <string name="settings_mod_title_music">Zene</string>
+    <string name="settings_mod_title_notification">Értesítések</string>
+    <string name="settings_mod_title_weather">Időjárás</string>
+    <string name="settings_mod_weather_force_language">Időjárás nyelvének kényszerítése</string>
+    <string name="settings_mod_weather_force_language_desc">Időjárási információ megjelenítése a karkötő/karóra nyelvével azonos nyelven.</string>
+    <string name="settings_mod_weather_latin">Időjárás konvertálása</string>
+    <string name="settings_mod_weather_latin_desc">Időjárási információban megjelenő ékezetes betűk konvertálása.</string>
+    <string name="settings_mod_weather_uppercase">Nagybetűs időjárás</string>
+    <string name="settings_mod_weather_uppercase_desc">Időjárási információ megjelenítése nagybetűkkel.</string>
+    <string name="settings_mod_force_language_default">Alapértelmezett</string>
+    <string name="settings_mod">Egyedi beállítások</string>
+    <string name="settings_mod_auth_key">Mentés</string>
+    <string name="settings_mod_auth_key_desc">"1. Bizonyosodjon meg róla, hogy az alkalmazás hozzáférhet a tárhelyhez!
+2. Érintse meg a \"MENTÉS\" gombot!
+3. Indítson el egy fájlkezelő alkalmazást!
+4. Tallózza be \"Mi Fit\" könyvtárat és nyissa meg az \"Information.txt\" fájlt!"</string>
+    <string name="settings_mod_auth_key_fail">"Mentés sikertelen.
+Tárhelyhez való hozzáférés engedélyezése szükséges."</string>
+    <string name="settings_mod_auth_key_success">Hitelesítő kulcs mentve</string>
 </resources>

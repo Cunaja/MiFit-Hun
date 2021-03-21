@@ -3152,6 +3152,17 @@ Következő cél: 50 PAI"</string>
     <string name="permission_disturb_title_sub">Ne zavarjanak engedély szükséges</string>
     <string name="permission_location">Engedélyezze a Mi Fit hozzáférését a helyinformációhoz</string>
     <string name="permission_phone">A Mi Fit kéri, hogy hozzáférjen a \"Telefonhoz\"</string>
+    <string name="permission_rationale_home_band_device">"Annak biztosításához, hogy a következő funkciók megfelelően működjenek az alkalmazáshoz és a [%1$s], ezeket az engedélyeket be kell szerezni: 
+Alapvető engedélyek: 
+Engedélyezze a telefon Bluetooth-kapcsolatát, és győződjön meg arról, hogy a készülék általában képes csatlakozni a telefon Bluetooth-hoz. 
+A helyadatok eléréséhez győződjön meg arról, hogy az eszköz általában képes csatlakozni a telefon Bluetooth-hoz. 
+Hozzáférés fényképekhez, médiatartalmakhoz és egyéb fájlokhoz annak érdekében, hogy a képek, videók és egyéb fájlok általában megjeleníthetők, lejátszhatóak és menthetők legyenek. 
+Hozzáférés az edzésadatokhoz, annak biztosítása érdekében, hogy az eszköz edzési adatai általában megjelenjen az alkalmazásban. 
+Szükséges bejövő hívási engedélyek: 
+Hozzáférés a telefon híváselőzményeihez annak érdekében, hogy az eszköz képes legyen a bejövő hívások megjelenítésére. 
+Hozzáférés a hívásállapothoz, annak biztosítása érdekében, hogy az eszköz megkapja a telefon állapotát. 
+Hívásengedélyt ad, hogy az eszköz képes legyen válaszolni vagy véget vetni a telefonhívások. 
+Hívásengedély fogadása annak biztosítására, hogy az eszköz fogadjon vagy elutasítson telefonhívásokat."</string>
     <string name="permission_sdcard">Engedélyezze a Mi Fit hozzáférését a háttértárhoz</string>
     <string name="permission_sms">Engedélyezze a Mi Fit hozzáférését az Üzenetekhez</string>
     <string name="permisson_tips_dialog_msg">Érintse meg az \"OK\"-t a Mi Fit alkalmazás alábbi engedélyeinek megadásához a Beállításokban.</string>

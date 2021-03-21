@@ -60,16 +60,28 @@
         <item quantity="other">%1$s lecke</item>
         <item quantity="one">%1$s lecke</item>
     </plurals>
+    <plurals name="fh_status_in_period_remain_plurals">
+        <item quantity="other">%1$s menstruációs időszakból, %2$s van hátra.</item>
+        <item quantity="one">%1$s menstruációs időszakból, %2$s van hátra.</item>
+    </plurals>
+    <plurals name="fh_status_in_predict_period_remain_plurals">
+        <item quantity="other">A menstruáció  %1$s időszakából, %2$s maradt</item>
+        <item quantity="one">A menstruáció %1$s időszakából, %2$s maradt</item>
+    </plurals>
+    <plurals name="fh_status_in_real_period_predict_remain_plurals">
+        <item quantity="other">%1$s a menstruációs időszakból körülbelül %2$s maradt</item>
+        <item quantity="one">%1$s a menstruációs időszakból körülbelül %2$s maradt</item>
+    </plurals>
     <plurals name="fh_study_number">
         <item quantity="other">%1$s néző</item>
         <item quantity="one">%1$s néző</item>
     </plurals>
     <plurals name="fh_the_day">
-        <item quantity="other">nap %1$</item>
+        <item quantity="other">nap %1$d</item>
     </plurals>
     <plurals name="fh_time_day_var">
-        <item quantity="other">%1$ n</item>
-        <item quantity="one">%1$ n</item>
+        <item quantity="other">%1$d n</item>
+        <item quantity="one">%1$d n</item>
     </plurals>
     <plurals name="food_chicken_burger">
         <item quantity="other">Egyenértékű %.2f hamburger kalóriájával</item>
@@ -148,8 +160,8 @@
         <item quantity="one">%d lépés</item>
     </plurals>
     <plurals name="mine_weight_goal">
-        <item quantity="other">%1$d %2$s </item>
-        <item quantity="one">%1$d %2$s </item>
+        <item quantity="other">%1$d %2$s </item>
+        <item quantity="one">%1$d %2$s </item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d Új értesítés</item>
@@ -196,12 +208,12 @@
         <item quantity="one">A futásbiztosítás lejár %1$d nap múlva, újítsa meg</item>
     </plurals>
     <plurals name="running_history_record_sync_fail_unsync_count">
-        <item quantity="other">"%d elem nem került szinkronizálásra"</item>
-        <item quantity="one">"%d elem nem került szinkronizálásra"</item>
+        <item quantity="other">%d elem nem került szinkronizálásra</item>
+        <item quantity="one">%d elem nem került szinkronizálásra</item>
     </plurals>
     <plurals name="running_history_record_unsync_count">
-        <item quantity="other">"%d elem nem került szinkronizálásra"</item>
-        <item quantity="one">"%d elem nem került szinkronizálásra"</item>
+        <item quantity="other">%d elem nem került szinkronizálásra</item>
+        <item quantity="one">%d elem nem került szinkronizálásra</item>
     </plurals>
     <plurals name="running_record_cycle_times">
         <item quantity="other">%1$d kerékpározás</item>
@@ -223,11 +235,7 @@
         <item quantity="other">%1$d úszás</item>
         <item quantity="one">%1$d úszás</item>
     </plurals>
-    <plurals name="running_record_training_times">
-        <item quantity="other">Edzés: %1$d alkalom</item>
-        <item quantity="one">Edzés: %1$d alkalom</item>
-    </plurals>
-    <plurals name="running_record_triathlon_times">
+ <plurals name="running_record_triathlon_times">
         <item quantity="other">%1$d triatlon</item>
         <item quantity="one">%1$d triatlon</item>
     </plurals>
@@ -340,8 +348,8 @@
         <item quantity="one">Legutóbbi edzés: %d napja</item>
     </plurals>
     <plurals name="training_consume_time_min">
-        <item quantity="other">Edzésidő:  %1$d perc</item>
-        <item quantity="one">Edzésidő:  %1$d perc</item>
+        <item quantity="other">Edzésidő: %1$d perc</item>
+        <item quantity="one">Edzésidő: %1$d perc</item>
     </plurals>
     <plurals name="training_consume_time_sec">
         <item quantity="other">Edzésidő:  %1$d mp</item>
@@ -352,16 +360,16 @@
         <item quantity="one">Az edzésmenet %1$d. napja: Teljesítenie kell a következőt: %3$s (%2$d perc)</item>
     </plurals>
     <plurals name="training_playing_title_time">
-        <item quantity="other"> %1$d  másodperc</item>
-        <item quantity="one"> %1$d  másodperc</item>
+        <item quantity="other">%1$d másodperc</item>
+        <item quantity="one">%1$d másodperc</item>
     </plurals>
     <plurals name="training_playing_title_times">
         <item quantity="other"> %1$d  alkalom</item>
         <item quantity="one"> %1$d  alkalom</item>
     </plurals>
     <plurals name="training_rest_interval_time">
-        <item quantity="other">Szüneteltetve:  %1$d mp</item>
-        <item quantity="one">Szüneteltetve:  %1$d mp</item>
+        <item quantity="other">Szüneteltetve: %1$d mp</item>
+        <item quantity="one">Szüneteltetve: %1$d mp</item>
     </plurals>
     <plurals name="unit_score">
         <item quantity="other">pont</item>
@@ -380,11 +388,7 @@
         <item quantity="one">%d p</item>
     </plurals>
     <plurals name="with_minute_time_level">
-        <item quantity="other">%1$d perc  %2$s</item>
-        <item quantity="one">%1$d perc  %2$s</item>
-    </plurals>
-    <plurals name="with_unit_times">
-        <item quantity="other">%d folyamat</item>
-        <item quantity="one">%d folyamat</item>
-    </plurals>
+        <item quantity="other">%1$d perc %2$s</item>
+        <item quantity="one">%1$d perc %2$s</item>
+    </plurals>	
 </resources>

@@ -2270,6 +2270,8 @@ Annak érdekében, hogy a(z) %s fogadhassa az értesítéseket"</string>
     <string name="kilo_fastest">Leggyorsabb km: %1$s</string>
     <string name="kindly_reminder">Figyelmeztetés</string>
     <string name="lab_data_missing">Hiányzó adat</string>
+    <string name="lab_hint">Megjegyzés</string>
+    <string name="lab_hint_info">Ha az adatai pontatlanok, vagy az edzés megfigyelése pontatlan, és az ok ismeretlen, akkor ezt a funkciót olyan adatok gyűjtésére lehet használni, amelyek segítenek a technikai csapatnak a probléma kiderítésében és az Ön számára történő megoldásában. További kérdéseivel forduljon az ügyfélszolgálathoz.</string>
     <string name="lab_tagging_fail">"Nem sikerült címkézni"</string>
     <string name="lab_unbind_device">Nincs párosított eszköz</string>
     <string name="lab_upload_cancel">Mégse</string>

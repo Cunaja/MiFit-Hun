@@ -406,9 +406,9 @@ A lépéseket, az alvást, a pulzust és más adatokat szinkronizáljuk az Alisp
     <string name="alisport_third_name_title">Alisports</string>
     <string name="alisport_unbind_verify">Alisports eltávolítja?</string>
     <string name="all_actions">Minden művelet</string>
-    <string name="all_apps_do_not_notify">No notifications for all apps</string>
+    <string name="all_apps_do_not_notify">Az összes alkalmazásnál nincsenek értesítések</string>
     <string name="all_training">Az összes edzésmenet</string>
-    <string name="already_grant_notification_permission">Still ask as notification permission is already granted.</string>
+    <string name="already_grant_notification_permission">Állandóan értesítési engedélyt kell kérni.</string>
     <string name="altitude">Tengerszint feletti magasság</string>
     <string name="altitude_down">Magasság csökkenés: %1$s</string>
     <string name="altitude_rise">Magasság emelkedés: %1$s</string>
@@ -1580,7 +1580,7 @@ Csatlakoztassa eszközét a hálózathoz a munkamenet során."</string>
     <string name="feedback_content_hint">Írja le a bejelenteni kívánt hibát angolul</string>
     <string name="feedback_content_max_length">Legfeljebb 1000 karaktert írhat be</string>
     <string name="feedback_content_title">Visszajelzés</string>
-    <string name="feedback_directly">Direct feedback</string>
+    <string name="feedback_directly">Közvetlen visszajelzés</string>
     <string name="feedback_discard">"A beírt tartalom törlésre kerül, ha kilép, mégis folytatja?"</string>
     <string name="feedback_email">E-mail</string>
     <string name="feedback_empty">Írja le visszajelzését a fenti mezőbe.</string>

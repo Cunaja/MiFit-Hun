@@ -1,371 +1,507 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">1 hour ago</item>
+    <plurals name="access_door_search_count_tip">
+        <item quantity="other">%1$d hits are found.</item>
+        <item quantity="zero">%1$d hits are found.</item>
+        <item quantity="one">%1$d hit is found.</item>
     </plurals>
-    <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hour ago</item>
+    <plurals name="action_amout">
+        <item quantity="other">%d courses</item>
+        <item quantity="one">%d course</item>
     </plurals>
-    <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+    <plurals name="app_day_report_title_rank">
+        <item quantity="other">Ahead of %d %% of users today</item>
+        <item quantity="one">Ahead of %d %% of users today</item>
     </plurals>
-    <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In 1 hour</item>
+    <plurals name="bf3_compare_last_mon">
+        <item quantity="other">Compared with %1$dd ago</item>
+        <item quantity="one">Compared with %1$dd ago</item>
     </plurals>
-    <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In half an hour</item>
+    <plurals name="bodyfat_3_health">
+        <item quantity="other">Reached %d goals</item>
+        <item quantity="one">Reached %d goal</item>
     </plurals>
-    <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
+    <plurals name="bodyfat_3_need_attention">
+        <item quantity="other">%d items need your attention</item>
+        <item quantity="one">%d item needs your attention</item>
     </plurals>
-    <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d mins</item>
-        <item quantity="one">in 1 min</item>
+    <plurals name="bodyfat_3_not_up_to_standard">
+        <item quantity="other">"%d items didn't reach goals"</item>
+        <item quantity="one">"%d item didn't reach goals"</item>
     </plurals>
-    <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+    <plurals name="count_unit_name">
+        <item quantity="other">@string/sleep_3_turn_over_unit</item>
+        <item quantity="one">@string/sleep_3_turn_over_unit</item>
     </plurals>
-    <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins ago</item>
-        <item quantity="one">1 min ago</item>
+    <plurals name="course_number">
+        <item quantity="other">%d courses</item>
+        <item quantity="one">%d course</item>
     </plurals>
-    <plurals name="birthday_format">
-        <item quantity="other">" (%1$d years old)"</item>
-        <item quantity="one">" (%1$d year old)"</item>
+    <plurals name="course_will_start_xdays_after">
+        <item quantity="other">The course begins in %d days</item>
+        <item quantity="one">The course begins in %d day</item>
     </plurals>
-    <plurals name="count_duration_standard">
-        <item quantity="other">%1$d-%2$d times</item>
-        <item quantity="one">%1$d-%2$d time</item>
+    <plurals name="download_time">
+        <item quantity="other">%d downloads</item>
+        <item quantity="one">%d download</item>
     </plurals>
-    <plurals name="cousume_unit_format">
-        <item quantity="other">%1$d Cal</item>
-        <item quantity="one">%1$d Cal</item>
+    <plurals name="event_remind_count">
+        <item quantity="other">%d reminders</item>
+        <item quantity="one">%d reminder</item>
     </plurals>
-    <plurals name="daily_suggestions_steps">
-        <item quantity="other">Walk at least %1$d steps every day</item>
-        <item quantity="one">Walk at least %1$d step every day</item>
+    <plurals name="exercise_total_runtimes">
+        <item quantity="other">%1$d workouts</item>
+        <item quantity="one">%1$d workout</item>
     </plurals>
-    <plurals name="day_index">
-        <item quantity="other">%1$d days</item>
-        <item quantity="one">%1$d day</item>
+    <plurals name="fh_cal">
+        <item quantity="other">%1$d kcal</item>
+        <item quantity="one">%1$d kcal</item>
     </plurals>
-    <plurals name="days_in_menstrual_period">
-        <item quantity="other">Period duration: %1$d days</item>
-        <item quantity="one">Period duration: %1$d day</item>
+    <plurals name="fh_cal_en">
+        <item quantity="other">%1$d kcal</item>
+        <item quantity="one">%1$d kcal</item>
     </plurals>
-    <plurals name="days_in_period">
-        <item quantity="other">Cycle duration: %1$d days</item>
-        <item quantity="one">Cycle duration: %1$d day</item>
+    <plurals name="fh_course_number">
+        <item quantity="other">%1$s lessons</item>
+        <item quantity="one">%1$s lesson</item>
     </plurals>
-    <plurals name="dialog_choose_items">
-        <item quantity="other">Selected %1$d items</item>
-        <item quantity="one">Selected %1$d item</item>
+    <plurals name="fh_status_in_period_remain_plurals">
+        <item quantity="other">%1$s of the menstrual period, %2$s left.</item>
+        <item quantity="one">%1$s of the menstrual period, %2$s left.</item>
     </plurals>
-    <plurals name="dialog_delete_records_confirm">
-        <item quantity="other">Delete %1$d records?</item>
-        <item quantity="one">Delete %1$d record?</item>
+    <plurals name="fh_status_in_predict_period_remain_plurals">
+        <item quantity="other">Approximately %1$s of the menstrual period, %2$s left.</item>
+        <item quantity="one">Approximately %1$s of the menstrual period, %2$s left.</item>
     </plurals>
-    <plurals name="distance_unit_kilometre">
-        <item quantity="other">%1$.1f km</item>
-        <item quantity="one">%1$.1f km</item>
+    <plurals name="fh_status_in_real_period_predict_remain_plurals">
+        <item quantity="other">%1$s of the menstrual period, about %2$s left.</item>
+        <item quantity="one">%1$s of the menstrual period, about %2$s left.</item>
     </plurals>
-    <plurals name="dream_talk_segment">
-        <item quantity="other">%1$d recordings</item>
-        <item quantity="one">%1$d recording</item>
+    <plurals name="fh_study_number">
+        <item quantity="other">%1$s viewers</item>
+        <item quantity="one">%1$s viewer</item>
     </plurals>
-    <plurals name="dream_talk_segment_unit">
-        <item quantity="other">" instances"</item>
-        <item quantity="one">" instance"</item>
-    </plurals>
-    <plurals name="duration_unit_hour_format">
-        <item quantity="other">%1$d hrs</item>
-        <item quantity="one">%1$d hr</item>
-    </plurals>
-    <plurals name="duration_unit_minute_format">
-        <item quantity="other">%1$d mins</item>
-        <item quantity="one">%1$d min</item>
-    </plurals>
-    <plurals name="duration_unit_second_format">
-        <item quantity="other">%1$d secs</item>
-        <item quantity="one">%1$d sec</item>
-    </plurals>
-    <plurals name="goal_format_with_unit">
-        <item quantity="other">Goal: %1$d steps</item>
-        <item quantity="one">Goal: %1$d step</item>
-    </plurals>
-    <plurals name="goal_unit">
-        <item quantity="other">" steps"</item>
-        <item quantity="one">" step"</item>
-    </plurals>
-    <plurals name="goal_unit_with_number">
-        <item quantity="other">%1$d steps</item>
-        <item quantity="one">%1$d step</item>
-    </plurals>
-    <plurals name="group_unit">
-        <item quantity="other">%1$d cycles</item>
-        <item quantity="one">%1$d cycle</item>
-    </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
-    </plurals>
-    <plurals name="hours">
-        <item quantity="other">%1$d hrs</item>
-        <item quantity="one">%1$d hr</item>
-    </plurals>
-    <plurals name="hr_fp_detect_time_remainder">
-        <item quantity="other">%1$d seconds remaining</item>
-        <item quantity="one">%1$d second remaining</item>
-    </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">In 1 hour</item>
-    </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">In half an hour</item>
-    </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
-    </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">in %d minutes</item>
-        <item quantity="one">in 1 minute</item>
-    </plurals>
-    <plurals name="last_measure_date_interval">
-        <item quantity="other">%1$d days since last weigh-in</item>
-        <item quantity="one">%1$d day since last weigh-in</item>
-    </plurals>
-    <plurals name="last_measure_day_body_weight">
-        <item quantity="other">%1$d days since last weigh-in</item>
-        <item quantity="one">%1$d day since last weigh-in</item>
-    </plurals>
-    <plurals name="length_unit_meter_format">
-        <item quantity="other">%1$d meters</item>
-        <item quantity="one">%1$d meter</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
-    </plurals>
-    <plurals name="mens_offset_predict_menstrual_period">
-        <item quantity="other">Period will likely start in %1$d days</item>
-        <item quantity="one">Period will likely start in %1$d day</item>
-    </plurals>
-    <plurals name="menstruation_sum_days">
-        <item quantity="other">%1$d-day period</item>
-        <item quantity="one">%1$d-day period</item>
-    </plurals>
-    <plurals name="mesens_card_title_day_in_predict">
-        <item quantity="other">Day %1$d (expected)</item>
-        <item quantity="one">Day %1$d (expected)</item>
-    </plurals>
-    <plurals name="mesens_card_title_days">
+    <plurals name="fh_the_day">
         <item quantity="other">Day %1$d</item>
-        <item quantity="one">Day %1$d</item>
     </plurals>
-    <plurals name="mesens_card_title_predict_date">
-        <item quantity="other">Next period in %1$d days</item>
-        <item quantity="one">Next period in %1$d day</item>
+    <plurals name="fh_time_day_var">
+        <item quantity="other">%1$d d</item>
+        <item quantity="one">%1$d d</item>
     </plurals>
-    <plurals name="minutes">
-        <item quantity="other">%1$d mins</item>
-        <item quantity="one">%1$d min</item>
+    <plurals name="food_chicken_burger">
+        <item quantity="other">Equivalent to the calories of %.2f burgers</item>
+        <item quantity="one">Equivalent to the calories of %.2f burger</item>
     </plurals>
-    <plurals name="minutes_ago">
-        <item quantity="other">%1$d mins ago</item>
-        <item quantity="one">%1$d min ago</item>
+    <plurals name="food_cola">
+        <item quantity="other">Equivalent to the calories of %.2f bottles of coke</item>
+        <item quantity="one">Equivalent to the calories of %.2f bottle of coke</item>
     </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d items selected</item>
-        <item quantity="one">%d item selected</item>
+    <plurals name="food_ice_cream_ball">
+        <item quantity="other">Equivalent to the calories of %.2f scoops of ice cream</item>
+        <item quantity="one">Equivalent to the calories of %.2f scoop of ice cream</item>
+    </plurals>
+    <plurals name="food_medium_french_fries">
+        <item quantity="other">Equivalent to the calories of %.2f medium portions of french fries</item>
+        <item quantity="one">Equivalent to the calories of %.2f medium portion of French fries</item>
+    </plurals>
+    <plurals name="food_rice">
+        <item quantity="other">Equivalent to the calories of %.2f bowls of rice</item>
+        <item quantity="one">Equivalent to the calories of %.2f bowl of rice</item>
+    </plurals>
+    <plurals name="ft_diary_count">
+        <item quantity="other">%1$d篇日记</item>
+    </plurals>
+    <plurals name="ft_str_comment_num">
+        <item quantity="other">%d条评论</item>
+    </plurals>
+    <plurals name="ft_str_participate_num">
+        <item quantity="other">%d人参与</item>
+    </plurals>
+    <plurals name="ft_x_day">
+        <item quantity="other">第%1$d天</item>
+    </plurals>
+    <plurals name="have_finish_x_times_training">
+        <item quantity="other">Finished %d training sessions</item>
+        <item quantity="one">Finished %d training session</item>
+    </plurals>
+    <plurals name="how_many_times">
+        <item quantity="other">Session %d</item>
+        <item quantity="one">Session %d</item>
+    </plurals>
+    <plurals name="incoming_call_delay_dialog_alert_tips">
+        <item quantity="other">Vibrate %ds after first ring</item>
+        <item quantity="one">Vibrate %ds after first ring</item>
+    </plurals>
+    <plurals name="input_out_of_max">
+        <item quantity="other">Enter up to %d characters</item>
+        <item quantity="one">Enter up to %d character</item>
+    </plurals>
+    <plurals name="learn_time_remained">
+        <item quantity="other">%d days remaining</item>
+        <item quantity="one">%d day remaining</item>
+    </plurals>
+    <plurals name="learn_times">
+        <item quantity="other">%d views</item>
+        <item quantity="one">%d view</item>
+    </plurals>
+    <plurals name="lose_weight_monthly_interval">
+        <item quantity="other">%1$d months</item>
+        <item quantity="one">%1$d month</item>
+    </plurals>
+    <plurals name="mc_days_ago">
+        <item quantity="other">%d天前</item>
+    </plurals>
+    <plurals name="mc_hours_ago">
+        <item quantity="other">%d小时前</item>
+    </plurals>
+    <plurals name="mc_minutes_ago">
+        <item quantity="other">%d分钟前</item>
+    </plurals>
+    <plurals name="mc_title_news_notification_number">
+        <item quantity="other">通知(%s)</item>
+    </plurals>
+    <plurals name="mc_title_news_number">
+        <item quantity="other">消息(%s)</item>
+    </plurals>
+    <plurals name="message_center_hour">
+        <item quantity="other">%d hours ago</item>
+        <item quantity="one">%d hour ago</item>
+    </plurals>
+    <plurals name="message_center_minute">
+        <item quantity="other">%d minutes ago</item>
+        <item quantity="one">%d minute ago</item>
+    </plurals>
+    <plurals name="mili_setting_last_charge">
+        <item quantity="other">Last charged %dd ago</item>
+        <item quantity="one">Last charged %dd ago</item>
+    </plurals>
+    <plurals name="mine_cars_str">
+        <item quantity="other">Following: %d</item>
+        <item quantity="one">Following: %d</item>
+    </plurals>
+    <plurals name="mine_fans_str">
+        <item quantity="other">Followers: %d</item>
+        <item quantity="one">Followers: %d</item>
+    </plurals>
+    <plurals name="mine_goal">
+        <item quantity="other">Reached goal: %dd</item>
+        <item quantity="one">Reached goal: %dd</item>
+    </plurals>
+    <plurals name="mine_post_count">
+        <item quantity="other">My feed: %d</item>
+        <item quantity="one">My feed: %d</item>
+    </plurals>
+    <plurals name="mine_step_goal">
+        <item quantity="other">%d steps</item>
+        <item quantity="one">%d step</item>
+    </plurals>
+    <plurals name="mine_weight_goal">
+        <item quantity="other">%1$d %2$s </item>
+        <item quantity="one">%1$d %2$s </item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d new notifications</item>
         <item quantity="one">%d new notification</item>
     </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">1 minute ago</item>
+    <plurals name="next_rest_time">
+        <item quantity="other">%d\"</item>
+        <item quantity="one">%d\"</item>
     </plurals>
-    <plurals name="sleep_goal_by_hour">
-        <item quantity="other">Goal: %1$d hours</item>
-        <item quantity="one">Goal: %1$d hour</item>
+    <plurals name="next_rest_time_seconds">
+        <item quantity="other">%ds</item>
+        <item quantity="one">%ds</item>
     </plurals>
-    <plurals name="sleep_management_exp_hours">
-        <item quantity="other">"Current settings won't guarantee you %1$d hours of sleep daily. You need more than that."</item>
-        <item quantity="one">"Current settings won't guarantee you %1$d hour of sleep daily. You need more than that."</item>
+    <plurals name="numberFoot">
+        <item quantity="other">%s ft</item>
+        <item quantity="one">%s ft</item>
     </plurals>
-    <plurals name="sport_tts_goal_consume">
-        <item quantity="other">%s more Calories left to burn till you reach your goal</item>
-        <item quantity="one">%s more Calorie left to burn till you reach your goal</item>
+    <plurals name="numberInch">
+        <item quantity="other">%s in</item>
+        <item quantity="one">%s in</item>
     </plurals>
-    <plurals name="sport_tts_goal_distance">
-        <item quantity="other">%s more kilometers left till you reach your goal</item>
-        <item quantity="one">%s more kilometer left till you reach your goal</item>
+    <plurals name="one_foot_time_seconds">
+        <item quantity="other">%ds</item>
+        <item quantity="one">%ds</item>
     </plurals>
-    <plurals name="sport_tts_goal_time">
-        <item quantity="other">%s more minutes left till you reach your goal</item>
-        <item quantity="one">%s more minute left till you reach your goal</item>
+    <plurals name="one_seconds_plu">
+        <item quantity="other">%.1fs</item>
+        <item quantity="one">%.1fs</item>
     </plurals>
-    <plurals name="sport_tts_riding_distance">
-        <item quantity="other">"You've cycled %s kilometers"</item>
-        <item quantity="one">"You've cycled %s kilometer"</item>
+    <plurals name="pai_suggest_and_heart_min">
+        <item quantity="other">%$d min</item>
+        <item quantity="one">%$d min</item>
     </plurals>
-    <plurals name="sport_tts_running_distance">
-        <item quantity="other">"You've run %s kilometers"</item>
-        <item quantity="one">"You've run %s kilometer"</item>
+    <plurals name="people_attended">
+        <item quantity="other">%d participants</item>
+        <item quantity="one">%d participant</item>
     </plurals>
-    <plurals name="sport_tts_total_consume">
-        <item quantity="other">"You've burned %s Calories"</item>
-        <item quantity="one">"You've burned %s Calorie"</item>
+    <plurals name="picker_number_of_items_selected">
+        <item quantity="other">Selected %1$d items</item>
+        <item quantity="one">Selected %1$d item</item>
     </plurals>
-    <plurals name="sport_tts_walking_distance">
-        <item quantity="other">"You've walked %s kilometers"</item>
-        <item quantity="one">"You've walked %s kilometer"</item>
+    <plurals name="run_insurance_remain_time_day">
+        <item quantity="other">Running Insurance expires in %1$d days, tap to renew</item>
+        <item quantity="one">Running Insurance expires in %1$d day, tap to renew</item>
     </plurals>
-    <plurals name="sporting_content_calories">
-        <item quantity="other">"You've already walked %1$s Calories"</item>
-        <item quantity="one">"You've already burned %1$s Calorie"</item>
+    <plurals name="running_history_record_sync_fail_unsync_count">
+        <item quantity="other">"%d items haven't been synced"</item>
+        <item quantity="one">"%d item hasn't been synced"</item>
     </plurals>
-    <plurals name="sporting_content_min">
-        <item quantity="other">%1$d minutes</item>
-        <item quantity="one">%1$d minute</item>
+    <plurals name="running_history_record_unsync_count">
+        <item quantity="other">"%d items haven't been synced"</item>
+        <item quantity="one">"%d item hasn't been synced"</item>
     </plurals>
-    <plurals name="sporting_content_riding_km">
-        <item quantity="other">"You've already cycled %1$s kilometers"</item>
-        <item quantity="one">"You've already cycled %1$s kilometer"</item>
+    <plurals name="running_record_cycle_times">
+        <item quantity="other">%1$d cycling sessions</item>
+        <item quantity="one">%1$d cycling session</item>
     </plurals>
-    <plurals name="sporting_content_running_km">
-        <item quantity="other">"You've already ran %1$s kilometers"</item>
-        <item quantity="one">"You've already ran %1$s kilometer"</item>
+    <plurals name="running_record_elli_times">
+        <item quantity="other">%1$d elliptical trainer sessions</item>
+        <item quantity="one">%1$d elliptical trainer session</item>
     </plurals>
-    <plurals name="sporting_content_sec">
-        <item quantity="other">%1$d seconds</item>
-        <item quantity="one">%1$d second</item>
+    <plurals name="running_record_free_training_times">
+        <item quantity="other">%1$d freestyle trainings</item>
+        <item quantity="one">%1$d freestyle training</item>
     </plurals>
-    <plurals name="sporting_content_walking_km">
-        <item quantity="other">"You've already walked %1$s kilometers"</item>
-        <item quantity="one">"You've already walked %1$s kilometer"</item>
+    <plurals name="running_record_run_times">
+        <item quantity="other">%1$d running sessions</item>
+        <item quantity="one">%1$d running session</item>
     </plurals>
-    <plurals name="sporting_content_walking_stpe">
-        <item quantity="other">"You've already walked %1$s steps"</item>
-        <item quantity="one">"You've already walked %1$s step"</item>
+    <plurals name="running_record_swim_times">
+        <item quantity="other">%1$d swimming sessions</item>
+        <item quantity="one">%1$d swimming session</item>
     </plurals>
-    <plurals name="sporting_unit_calories">
-        <item quantity="other">%1$d Calories</item>
-        <item quantity="one">%1$d Calorie</item>
+    <plurals name="running_record_training_times">
+        <item quantity="other">Training: %1$d sessions</item>
+        <item quantity="one">Training: %1$d session</item>
     </plurals>
-    <plurals name="sporting_unit_km">
-        <item quantity="other">%1$s km</item>
-        <item quantity="one">%1$s km</item>
+    <plurals name="running_record_triathlon_times">
+        <item quantity="other">%1$d triathlon sessions</item>
+        <item quantity="one">%1$d triathlon session</item>
     </plurals>
-    <plurals name="sporting_unit_step">
+    <plurals name="running_record_walk_times">
+        <item quantity="other">%1$d walking sessions</item>
+        <item quantity="one">%1$d walking session</item>
+    </plurals>
+    <plurals name="running_record_workout_times">
+        <item quantity="other">Exercise: %1$d sessions</item>
+        <item quantity="one">Exercise: %1$d session</item>
+    </plurals>
+    <plurals name="score_units">
+        <item quantity="other">points</item>
+        <item quantity="one">point</item>
+    </plurals>
+    <plurals name="share_continue_max_day">
+        <item quantity="other">Personal best: %dd</item>
+        <item quantity="one">Personal best: %dd</item>
+    </plurals>
+    <plurals name="share_step_rank">
+        <item quantity="other">Ahead of %d %% of users</item>
+        <item quantity="one">Ahead of %d %% of users</item>
+    </plurals>
+    <plurals name="sleep_3_goal_title">
+        <item quantity="other">Slept better than %d %% of users</item>
+        <item quantity="one">Slept better than %d %% of users</item>
+    </plurals>
+    <plurals name="sleep_3_goal_title_date_prex">
+        <item quantity="other">%1$s: Sleep better than %2$d %% of users</item>
+        <item quantity="one">%1$s: Slept better than %2$d %% of users</item>
+    </plurals>
+    <plurals name="sport_end_page_sport_times">
+        <item quantity="other">Completed activities: %1$d sessions of %2$s</item>
+        <item quantity="one">Completed activities: %1$d session of %2$s</item>
+    </plurals>
+    <plurals name="sport_list_energy_subtitle">
+        <item quantity="other">Equivalent to the calories of %d burgers</item>
+        <item quantity="one">Equivalent to the calories of %d burger</item>
+    </plurals>
+    <plurals name="sporting_data_unit_steps">
         <item quantity="other">steps</item>
         <item quantity="one">step</item>
     </plurals>
-    <plurals name="step_num_format">
-        <item quantity="other">%1$d steps</item>
-        <item quantity="one">%1$d step</item>
+    <plurals name="start_train_after_x_day">
+        <item quantity="other">Begins in %s days</item>
+        <item quantity="one">Begins in %s day</item>
     </plurals>
-    <plurals name="steps_format">
-        <item quantity="other">%1$d</item>
-        <item quantity="one">%1$d</item>
+    <plurals name="step_3_fr_header_rate_compare">
+        <item quantity="other">Ahead of %d %% of users</item>
+        <item quantity="one">Ahead of %d %% of users</item>
     </plurals>
-    <plurals name="subtitle_add_record">
-        <item quantity="other">"You haven't recorded for %1$d days. Record your periods to get more accurate predictions."</item>
-        <item quantity="one">"You haven't recorded for %1$d day. Record your periods to get more accurate predictions."</item>
+    <plurals name="step_top_goal">
+        <item quantity="other">Personal best: %dd</item>
+        <item quantity="one">Personal best: %dd</item>
     </plurals>
-    <plurals name="subtitle_menstruation_continued_days">
-        <item quantity="other">This period lasts for a total of %1$d days</item>
-        <item quantity="one">This period lasts for a total of %1$d day</item>
-    </plurals>
-    <plurals name="subtitle_menstruation_cycle_days">
-        <item quantity="other">Day %1$d of this menstrual cycle</item>
-        <item quantity="one">Day %1$d of this menstrual cycle</item>
-    </plurals>
-    <plurals name="sum_cycle_days">
-        <item quantity="other">%1$d-day cycle</item>
-        <item quantity="one">%1$d-day cycle</item>
-    </plurals>
-    <plurals name="time_duration_compare_standard">
-        <item quantity="other">≤%1$d minutes</item>
-        <item quantity="one">≤%1$d minute</item>
-    </plurals>
-    <plurals name="time_duration_hour_float">
-        <item quantity="other">%1$.2f hrs</item>
-        <item quantity="one">%1$.2f hr</item>
-    </plurals>
-    <plurals name="time_duration_hour_int">
-        <item quantity="other">%d hrs</item>
+    <plurals name="time_hour_unit">
+        <item quantity="other">%d hr</item>
         <item quantity="one">%d hr</item>
     </plurals>
-    <plurals name="time_duration_hour_standard">
-        <item quantity="other">%1$.1f-%2$.1f hours</item>
-        <item quantity="one">%1$.1f-%2$.1f hour</item>
+    <plurals name="time_min_unit">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
     </plurals>
-    <plurals name="time_duration_minute">
-        <item quantity="other">%1$d minutes</item>
-        <item quantity="one">%1$d minute</item>
+    <plurals name="tips_achieve_weight_goal">
+        <item quantity="other">"Congratulations!
+In the last %1$d days you lost"</item>
+        <item quantity="zero">"Congratulations!
+In the last %1$d day you lost"</item>
+        <item quantity="one">"Congratulations!
+In the last %1$d day you lost"</item>
     </plurals>
-    <plurals name="time_duration_minute_standard">
-        <item quantity="other">%1$d-%2$d minutes</item>
-        <item quantity="one">%1$d-%2$d minute</item>
+    <plurals name="tips_achieve_weight_goal_1">
+        <item quantity="other">"Congratulations!
+In the last %1$d days you gained"</item>
+        <item quantity="zero">"Congratulations!
+In the last %1$d days you gained"</item>
+        <item quantity="one">"Congratulations!
+In the last %1$d day you gained"</item>
     </plurals>
-    <plurals name="time_duration_time">
-        <item quantity="other">%1$d times</item>
-        <item quantity="one">%1$d time</item>
+    <plurals name="tips_number_weight_record_claim">
+        <item quantity="other">There are %1$d weight records waiting to be claimed.</item>
+        <item quantity="zero">There are %1$d weight records waiting to be claimed.</item>
+        <item quantity="one">There is %1$d weight record waiting to be claimed.</item>
     </plurals>
-    <plurals name="times_format">
-        <item quantity="other">%1$d times</item>
-        <item quantity="one">%1$d time</item>
+    <plurals name="too_old_for_calculate">
+        <item quantity="other">"Can't analyze for people older than %d years old"</item>
+        <item quantity="one">"Can't analyze for people older than %d year old"</item>
     </plurals>
-    <plurals name="title_menstruation_day">
-        <item quantity="other">Day %1$d of the period</item>
-        <item quantity="one">Day %1$d of the period</item>
+    <plurals name="too_young_for_calculate">
+        <item quantity="other">"Can't analyze for people younger than %d years old"</item>
+        <item quantity="one">"Can't analyze for people younger than %d year old"</item>
     </plurals>
-    <plurals name="title_menstruation_margin_next_time_days">
-        <item quantity="other">%1$d days till the next period</item>
-        <item quantity="one">%1$d day till the next period</item>
+    <plurals name="total_record_data">
+        <item quantity="other">"Kept records for %d days, total: "</item>
+        <item quantity="one">"Kept records for %d day, total: "</item>
     </plurals>
-    <plurals name="title_menstruation_predict_period">
-        <item quantity="other">Estimated day %1$d of the period</item>
-        <item quantity="one">Estimated day %1$d of the period</item>
+    <plurals name="tr_action_duration">
+        <item quantity="other">%d\"</item>
     </plurals>
-    <plurals name="title_today_exercise_steps">
-        <item quantity="other">%1$d steps today</item>
-        <item quantity="one">%1$d step today</item>
+    <plurals name="tr_action_repeatNumber">
+        <item quantity="other">%d次</item>
     </plurals>
-    <plurals name="unit_days">
-        <item quantity="other">" days"</item>
-        <item quantity="one">" day"</item>
+    <plurals name="tr_action_rest_duration">
+        <item quantity="other">休息%d\"</item>
     </plurals>
-    <plurals name="unit_group">
-        <item quantity="other">" cycles"</item>
-        <item quantity="one">" cycle"</item>
+    <plurals name="tr_action_round">
+        <item quantity="other">第%d节</item>
     </plurals>
-    <plurals name="unit_hours">
-        <item quantity="other">" hrs "</item>
-        <item quantity="one">" hr "</item>
+    <plurals name="tr_cal">
+        <item quantity="other">%d kcal</item>
+        <item quantity="one">%d kcal</item>
     </plurals>
-    <plurals name="unit_hours2">
-        <item quantity="other">" hours "</item>
-        <item quantity="one">" hour "</item>
+    <plurals name="tr_cal_en">
+        <item quantity="other">%dkcal</item>
     </plurals>
-    <plurals name="unit_mins">
-        <item quantity="other">" mins "</item>
-        <item quantity="one">" min "</item>
+    <plurals name="tr_course_number">
+        <item quantity="other">%d courses</item>
+        <item quantity="one">%d course</item>
     </plurals>
-    <plurals name="unit_mins2">
-        <item quantity="other">" minutes "</item>
-        <item quantity="one">" minute "</item>
+    <plurals name="tr_days_ago">
+        <item quantity="other">%d天前</item>
     </plurals>
-    <plurals name="unit_seconds">
-        <item quantity="other">" secs "</item>
-        <item quantity="one">" sec "</item>
+    <plurals name="tr_expiry">
+        <item quantity="other">Course expires in %d days</item>
+        <item quantity="one">Course expires in %d day</item>
     </plurals>
-    <plurals name="unit_times">
-        <item quantity="other">" times"</item>
-        <item quantity="one">" time"</item>
+    <plurals name="tr_expiry_duration">
+        <item quantity="other">%d天学习有效期</item>
     </plurals>
-    <plurals name="user_age_display_format_year">
-        <item quantity="other">%1$d years old</item>
-        <item quantity="one">%1$d year old</item>
+    <plurals name="tr_finish_training_number">
+        <item quantity="other">%d人完成学习</item>
+    </plurals>
+    <plurals name="tr_finished_number">
+        <item quantity="other">完成第%d次学习</item>
+    </plurals>
+    <plurals name="tr_format_classes">
+        <item quantity="other">%d classes</item>
+        <item quantity="one">%d class</item>
+    </plurals>
+    <plurals name="tr_hours_ago">
+        <item quantity="other">%d小时前</item>
+    </plurals>
+    <plurals name="tr_minutes">
+        <item quantity="other">%d分钟</item>
+    </plurals>
+    <plurals name="tr_minutes_ago">
+        <item quantity="other">%d分钟前</item>
+    </plurals>
+    <plurals name="tr_start_training_right_now">
+        <item quantity="other">立即开始第%d次训练</item>
+    </plurals>
+    <plurals name="tr_study_number">
+        <item quantity="other">%d viewers</item>
+        <item quantity="one">%d viewer</item>
+    </plurals>
+    <plurals name="tr_total_group_number">
+        <item quantity="other">Total sets: %d</item>
+        <item quantity="one">Total sets: %d</item>
+    </plurals>
+    <plurals name="tr_train_times">
+        <item quantity="other">Learned times: %d</item>
+        <item quantity="one">Learned times: %d</item>
+    </plurals>
+    <plurals name="tr_video_participantNumber">
+        <item quantity="other">%d次学习</item>
+    </plurals>
+    <plurals name="tr_wait_x_days_then_begin">
+        <item quantity="other">Begins in %d days</item>
+        <item quantity="one">Begins in %d day</item>
+    </plurals>
+    <plurals name="tr_x_minutes">
+        <item quantity="other">%d分钟</item>
+    </plurals>
+    <plurals name="tr_x_minutes_en">
+        <item quantity="other">%dmin</item>
+    </plurals>
+    <plurals name="train_day_format">
+        <item quantity="other">Last training: %d days ago</item>
+        <item quantity="one">Last training: %d day ago</item>
+    </plurals>
+    <plurals name="training_consume_time_min">
+        <item quantity="other">Trained for  %1$d min</item>
+        <item quantity="one">Trained for  %1$d m</item>
+    </plurals>
+    <plurals name="training_consume_time_sec">
+        <item quantity="other">Trained for  %1$d s</item>
+        <item quantity="one">Trained for  %1$d s</item>
+    </plurals>
+    <plurals name="training_notify_content">
+        <item quantity="other">Day %1$d of the training course: You need to complete %3$s (%2$d min)</item>
+        <item quantity="one">Day %1$d of the training course: You need to complete %3$s (%2$d min)</item>
+    </plurals>
+    <plurals name="training_playing_title_time">
+        <item quantity="other"> %1$d  seconds</item>
+        <item quantity="one"> %1$d  second</item>
+    </plurals>
+    <plurals name="training_playing_title_times">
+        <item quantity="other"> %1$d  times</item>
+        <item quantity="one"> %1$d  time</item>
+    </plurals>
+    <plurals name="training_rest_interval_time">
+        <item quantity="other">Paused for  %1$d s</item>
+        <item quantity="one">Paused for  %1$d s</item>
+    </plurals>
+    <plurals name="unit_score">
+        <item quantity="other">points</item>
+        <item quantity="one">point</item>
+    </plurals>
+    <plurals name="unit_step">
+        <item quantity="other">" steps"</item>
+        <item quantity="one">" step"</item>
+    </plurals>
+    <plurals name="with_kcal">
+        <item quantity="other">%d kcal</item>
+        <item quantity="one">%d kcal</item>
+    </plurals>
+    <plurals name="with_minute_time">
+        <item quantity="other">%dm</item>
+        <item quantity="one">%dm</item>
+    </plurals>
+    <plurals name="with_minute_time_level">
+        <item quantity="other">%1$d mins  %2$s</item>
+        <item quantity="one">%1$d min  %2$s</item>
+    </plurals>
+    <plurals name="with_unit_times">
+        <item quantity="other">%d sessions</item>
+        <item quantity="one">%d session</item>
     </plurals>
 </resources>

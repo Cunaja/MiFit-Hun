@@ -65,8 +65,8 @@
         <item quantity="one">%1$s menstruációs időszakból, %2$s van hátra..</item>
     </plurals>
     <plurals name="fh_status_in_predict_period_remain_plurals">
-        <item quantity="other">A menstruáció %1$s of the menstrual period, %2$s van hátra.</item>
-        <item quantity="one">A menstruáció %1$s of the menstrual period, %2$s van hátra.</item>
+        <item quantity="other">A menstruáció %1$s a menstruációs időszakból, %2$s van hátra.</item>
+        <item quantity="one">A menstruáció %1$s a menstruációs időszakból, %2$s van hátra.</item>
     </plurals>
     <plurals name="fh_status_in_real_period_predict_remain_plurals">
         <item quantity="other">%1$s menstruációs időszakból körülbelül %2$s van hátra.</item>

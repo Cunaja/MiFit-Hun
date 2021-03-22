@@ -304,7 +304,7 @@ A kártya létrehozása kb. 2 percet vesz igénybe."</string>
     <string name="action_stairs">Lépcsőzés</string>
     <string name="action_stand">Állás</string>
     <string name="action_swim">Úszás</string>
-    <string name="action_temperature">Body temperature</string>
+    <string name="action_temperature">Testhőmérséklet</string>
     <string name="action_walk">Gyaloglás</string>
     <string name="activate_amazfit_click">Aktiválás</string>
     <string name="activate_amazfit_device">Jelenleg párosított eszköz: %s</string>
@@ -424,7 +424,7 @@ A lépéseket, az alvást, a pulzust és más adatokat szinkronizáljuk az Alisp
     <string name="amazfit_watch_unbind_mili_mutex">Válassza le a karkötőt a karóra párosítása előtt</string>
     <string name="amazfit_watch_unbind_mutex_unbind">%s leválasztása</string>
     <string name="amazfit_watch_unbind_watch_mutex">A karkötő párosításához válassza le a karórát Mi Fitről</string>
-    <string name="another_questions">Other issues? Go to feedback.</string>
+    <string name="another_questions">Más problémája van? Lépjen a visszajelzéshez.</string>
     <string name="apgs_sync_fail">A-GPS adatok frissítése sikertelen</string>
     <string name="apk_download_ok">A Mi Fit letöltve</string>
     <string name="apk_force_upgrade_wifi_status">A mobiladat-kapcsolat használata növelheti a költségeit. Mégis frissíti?</string>
@@ -729,7 +729,7 @@ Lépjen kapcsolatba az ügyfélszolgálattal."</string>
     <string name="bluemonkey_connect_fail">A Smart T-hez való csatlakozás sikertelen</string>
     <string name="bluemonkey_connect_failed_as_key_loss">Nyomkövetőhöz való csatlakozás sikertelen, párosítsa újra.</string>
     <string name="bluetooth_is_off">Bluetooth ki van kapcsolva</string>
-    <string name="bluetooth_pair">Bluetooth pairing</string>
+    <string name="bluetooth_pair">Bluetooth párosítás</string>
     <string name="bluetooth_pairing">Párosítás…</string>
     <string name="bluetooth_service_exception">Hiba történt, indítsa újra a Bluetooth-t</string>
     <string name="bluetooth_unpair">Leválasztás</string>
@@ -740,7 +740,7 @@ Nem tudja csupán a BMI-érték alapján megítélni, hogy \"elhízott\"-e. Egye
     <string name="bmi_need_attention_for_bmi_high">Nem lehet elemezni az egészségi állapotát, mert a testzsír aránya normális. A BMI csak tájékoztató jellegű.</string>
     <string name="bmi_need_attention_for_bmi_high_and_nobodyfat">Nem sikerült elemezni a testzsír százalék adatok nélkül. A BMI index adatok csak tájékoztató jellegűek.</string>
     <string name="bmi_need_attention_for_too_low">Úgy tűnik, a BMI értéke túl alacsony. Negatív hatása lehet az immunrendszerére és az általános egészségi állapotára. Szenteljen kiemelt figyelmet a testsúlyára és a táplálkozásásra, győződjön meg róla, hogy az edzésrutinja kiegyensúlyozott.</string>
-    <string name="bmi_need_attention_for_too_low_18">Úgy tűnik, alacsony a BMI-je. Szenteljen kiemelt figyelmet a testsúlyára és a táplálkozásásra, győződjön meg róla, hogy az edzésrutinja kiegyensúlyozott.</string>
+    <string name="bmi_need_attention_for_too_low_18">Úgy tűnik, alacsony a BMI-je. Szenteljen kiemelt figyelmet a testsúlyára és a táplálkozására, győződjön meg róla, hogy az edzésrutinja kiegyensúlyozott.</string>
     <string name="bmi_not_up_standard">A BMI-je meghaladja a határértéket (%s), a zsírszintje szintén. Többet kell edzenie.</string>
     <string name="bmr_activity_text">"Az \"Alapvető anyagcsere\" az alapvető élet fenntartásához szükséges legalacsonyabb energiát jelenti. Alapvető anyagcsere ráta az izomtömeg által fogyasztott energia. Emberek magasabb rátával nem híznak el könnyen.
 
@@ -1044,7 +1044,7 @@ Csatlakoztassa eszközét a hálózathoz a munkamenet során."</string>
     <string name="clear_training_cache">Edzésmenet gyorsítótár törlése</string>
     <string name="clear_weight_goal">Célsúly törlése</string>
     <string name="click_for_help">Érintse meg a súgó megnyitásához</string>
-    <string name="click_join_training">Csatlakozáshoz értintse meg</string>
+    <string name="click_join_training">Csatlakozáshoz érintse meg</string>
     <string name="click_to_bind_device">Érintse meg az eszközök párosításához</string>
     <string name="click_to_see_information">Érintse meg a gombot a karkötőn az információk megtekintéséhez</string>
     <string name="click_tolook_for_help">Segítség</string>
@@ -1321,11 +1321,11 @@ Csatlakoztassa eszközét a hálózathoz a munkamenet során."</string>
     <string name="device_log_syncing">Óra naplók szinkronizálása %1$d%%</string>
     <string name="device_log_syncing_band">Karkötő naplók szinkronizálása %1$d%%</string>
     <string name="device_log_upload">Feltöltés</string>
-    <string name="device_log_watch_collection_announce">"Note:
-1. Once enabled, you only need to swim while wearing the watch to collect data.
-2. After swimming, the system will automatically disable behavior tagging.
-3. Please complete uploading the data within 3 hours.
-4. The data will only be used for development and analysis, and will be deleted immediately after the analysis is completed, and it will not be used for other commercial purposes."</string>
+    <string name="device_log_watch_collection_announce">"Megjegyzés:
+1. Ha engedélyezve van, csak úsznia kell az óra viselése közben, hogy adatokat tudjon gyűjteni
+2. Úszás után a rendszer automatikusan letiltja a viselkedés címkézését.
+3. Kérjük, 3 órán belül fejezze be az adatok feltöltését.
+4. Az adatokat csak fejlesztéshez és elemzéshez használjuk fel, és az elemzés befejezése után azonnal töröljük, és más kereskedelmi célokra nem használjuk fel."</string>
     <string name="device_onboarding_miband4_near_field_communication_feat_subtitle">Adjon hozzá utazókártyát a Mi Fit beállításokban</string>
     <string name="device_onboarding_miband4_near_field_communication_feat_title">Használja karkötőjét az utazókártya helyett</string>
     <string name="device_onboarding_miband4_off_wrist_lock_screen_feat_subtitle">A karkötő azonnal zárolásra kerül, amint leveszi a csuklójáról</string>
@@ -1409,7 +1409,7 @@ Csatlakoztassa eszközét a hálózathoz a munkamenet során."</string>
     <string name="devices_day_of_month_9">9.-e</string>
     <string name="devices_is_follow_mobile_phone_system">Telefon nyelvének használata</string>
     <string name="devices_sport_gps_notify">A karkötő GPS-t használ az edzésmenet rögzítésére.</string>
-    <string name="devices_sport_gps_notify_watch">The watch uses GPS to record the workout track.</string>
+    <string name="devices_sport_gps_notify_watch">Az óra GPS-t használ az edzésútvonal rögzítésére.</string>
     <string name="diagnosis_choose_tip">Kérem, határozza meg a tapasztalt hiba jellegét (több is választható)!</string>
     <string name="dialog_closing">Bezárás…</string>
     <string name="dialog_starting">Egy pillanat…</string>
@@ -1781,7 +1781,7 @@ Az alkalmazásértesítések bekapcsolása a Beállításokban lehetséges"</str
     <string name="fh_status_in_real_period_predict_remain_short">%1$s nap menstruációs ciklus</string>
     <string name="fh_status_in_real_period_short">A menstruációs ciklus %1$s nap</string>
     <string name="fh_suitable_training">Javasolt gyakorlat</string>
-    <string name="fh_suitable_training_desc">Jelenleg a mentstruáció tart. Ne végezzen intenzív testmozgást! A könnyed testmozgás jobb önnek.</string>
+    <string name="fh_suitable_training_desc">Jelenleg a menstruáció tart. Ne végezzen intenzív testmozgást! A könnyed testmozgás jobb önnek.</string>
     <string name="fh_sunday">V</string>
     <string name="fh_sure">Rendben</string>
     <string name="fh_symptom_name_blood">Vérzés</string>
@@ -2105,8 +2105,8 @@ Maradjon a bluetooth bekapcsolva futás alatt!"</string>
     <string name="identify_broadcast">Felfedezhetőség</string>
     <string name="ignore">Mellőzés</string>
     <string name="incoming_call_alert">Bejövő hívás</string>
-    <string name="incoming_call_alert_logo_tips">Tartsa a karkötőt bluetooth kapcsolatban a telefonjával</string>
-    <string name="incoming_call_alert_logo_watch_tips">Tartsa az órát bluetooth kapcsolatban a telefonjával</string>
+    <string name="incoming_call_alert_logo_tips">Tartsa a karkötőt Bluetooth kapcsolatban a telefonjával</string>
+    <string name="incoming_call_alert_logo_watch_tips">Tartsa az órát Bluetooth kapcsolatban a telefonjával</string>
     <string name="incoming_call_alert_text">Bejövő hívás</string>
     <string name="incoming_call_alert_tips">Figyelmeztetés %s mp után</string>
     <string name="incoming_call_delay_alert_tips">Rezgés %s mp-cel az első csengetés után</string>
@@ -2220,13 +2220,13 @@ Ha a fenti beállítások után nem működik, próbálkozzon a következővel:
 2. Érintse meg az Engedélyek lehetőséget;
 3. Válassza az Alkalmazáskezelést;
 4. Keresse meg a Mi Fit alkalmazást és engedélyezze, hogy a háttérben fusson."</string>
-    <string name="keep_alive_setting_auto_start_funtouch_os">"1. Nyissa meg az i Manager alkalmazást, és érintse meg: App manager;
+    <string name="keep_alive_setting_auto_start_funtouch_os">"1. Nyissa meg az i Menedzser alkalmazást, és érintse meg: App manager;
 2. Keresse meg: Autostart;
 3. Keresse meg a Mi Fit alkalmazást és kapcsolja be a kapcsolót."</string>
     <string name="keep_alive_setting_auto_start_miui">"1. Nyissa meg a \"Biztonság\" menüt és érintse meg az \"Engedélyek\" elemet;
 2. Válassza az \"Automatikus indítás\" lehetőséget;
 3. Keresse meg a Mi Fit alkalmazást és kapcsolja be a kapcsolót."</string>
-    <string name="keep_alive_setting_auto_start_samsung">"1. Nyissa meg a Smart Manager alkalmazást;
+    <string name="keep_alive_setting_auto_start_samsung">"1. Nyissa meg a Smart Menedzser alkalmazást;
 2. Csúsztasson jobbra a képernyőn, és érintse meg az Alkalmazások automatikus futtatása lehetőséget;
 3. Keresse meg a Mi Fit alkalmazást és kapcsolja be a kapcsolót."</string>
     <string name="keep_alive_setting_auto_start_smartisan_os">"1. Nyissa meg a Telefonkezelőt, érintse meg az Engedélykezelőt;
@@ -2260,7 +2260,7 @@ Ha az EMUI verzió nemrég frissítésre került, a beállítások módosítása
 2. Válassza az \"Akkumulátor és teljesítmény\" pontot;
 3. Válassza az \"Alkalmazások kiválasztása\" lehetőséget;
 4. Keresse meg a Mi Fit alkalmazást, és válassza a \"Nincs korlátozás\" lehetőséget a háttér beállításokban."</string>
-    <string name="keep_alive_setting_power_manager_samsung">"1. Érintse meg Smart Manager-t;
+    <string name="keep_alive_setting_power_manager_samsung">"1. Érintse meg az Intelligens menedzser-t;
 2. Menjen az Akkumulátor menübe, és érintse meg a beállítások oldalra lépéshez;
 3. Érintse meg a Nem figyelt alkalmazásokat, keresse meg a Mi Fit alkalmazást, és érintse meg a lehetőségek megnyitásához; 
 4. Érintse meg az Akkumulátor lehetőséget, majd nyomjon az Akkumulátorhasználat optimalizálására;
@@ -2279,7 +2279,7 @@ Ha az EMUI verzió nemrég frissítésre került, a beállítások módosítása
     <string name="keep_alive_setting_title_smartisan_os">Smartisan OS</string>
     <string name="keep_alive_setting_title_vivo_funtouch_os">VIVO Funtouch OS</string>
     <string name="keep_alive_setting_white_list">%s Alkalmazáskivételek</string>
-    <string name="keep_alive_setting_white_list_funtouch_os">"1. Nyissa meg az i Manager alkalmazást, és érintse meg a Space manager elemet;
+    <string name="keep_alive_setting_white_list_funtouch_os">"1. Nyissa meg az i Menedzser alkalmazást, és érintse meg a Space menedzser elemet;
 2. Érintse meg a Beállítások gombot az oldal jobb sarkában;
 3. Keresse meg a Mi Fit alkalmazást a kivételekben és kapcsolja be a kapcsolót."</string>
     <string name="keep_alive_tips_content">A Mi Fit alkalmazásnak a háttérben kell futnia az alkalmazás értesítések fogadásához. Adja hozzá azMi Fit alkalmazást a kivételekhez, ha nem kapja meg a bejövő hívások, az SMS-ek, az alkalmazás értesítésekre, stb. vonatkozó értesítéseket.</string>
@@ -2296,23 +2296,23 @@ Annak érdekében, hogy a(z) %s fogadhassa az értesítéseket"</string>
     <string name="kindly_reminder">Figyelmeztetés</string>
     <string name="lab_data_missing">Hiányzó adat</string>
     <string name="lab_hint">Megjegyzés</string>
-    <string name="lab_hint_info">If your data is inaccurate or your workout behavior is inaccurate and the cause is unknown, this function can be used to collect data that will help the technical team to figure out the issue and resolve it for you. If you have any further questions, please consult customer service.</string>
+    <string name="lab_hint_info">Ha az adatai pontatlanok, vagy az edzés viselkedése pontatlan, és az ok ismeretlen, akkor ezt a funkciót olyan adatok gyűjtésére lehet használni, amelyek segítenek a technikai csapatnak kitalálni a problémát és megoldani az Ön számára. További kérdéseivel forduljon az ügyfélszolgálathoz.</string>
     <string name="lab_long_press_end">Tartsa nyomva a befejezéshez</string>
-    <string name="lab_nmea_tip">Once you enable NMEA acquisition, and outdoor sports data logging is enabled on your smart device, we will collect NMEA data from the GPS receiver in real-time and use it to analyze GPS-related issues. If you are a minor, it is recommended that you only use this function under the direct supervision of a guardian.</string>
+    <string name="lab_nmea_tip">Miután engedélyezte az NMEA megszerzését, és a szabadtéri sportadatok naplózása engedélyezett az intelligens eszközén, valós időben gyűjtjük az NMEA adatait a GPS-vevőtől, és felhasználjuk a GPS-hez kapcsolódó problémák elemzésére. Ha ön kiskorú, javasoljuk, hogy ezt a funkciót csak gyám közvetlen felügyelete mellett használja.</string>
     <string name="lab_tagging_fail">Nem sikerült címkézni</string>
     <string name="lab_temperature_continue">Mérés folytatása</string>
     <string name="lab_temperature_device_parts_hint">Kiválasztás</string>
-    <string name="lab_temperature_device_parts_select">Please select the device and location.</string>
-    <string name="lab_temperature_device_parts_title">Device and location</string>
+    <string name="lab_temperature_device_parts_select">Válassza ki az eszközt és a helyet.</string>
+    <string name="lab_temperature_device_parts_title">Eszköz és hely</string>
     <string name="lab_temperature_done">Kész</string>
     <string name="lab_temperature_elec">Digitális hőmérő</string>
-    <string name="lab_temperature_five_minutes">It is recommended to measure for 5 minutes or more.</string>
+    <string name="lab_temperature_five_minutes">Ajánlott legalább 5 percig mérni.</string>
     <string name="lab_temperature_infrared">Infravörös hőmérő</string>
-    <string name="lab_temperature_infrared_msg">Please use the watch to measure before using the reference device.</string>
+    <string name="lab_temperature_infrared_msg">Kérjük, használja az órát a méréshez a referenciaeszköz használata előtt.</string>
     <string name="lab_temperature_mercury">Hőmérő (higanyos)</string>
-    <string name="lab_temperature_mercury_msg">Please start measuring simultaneously, we recommend 5 minutes or more.</string>
+    <string name="lab_temperature_mercury_msg">Kérjük, kezdje el a mérést egyidejűleg, javasoljuk legalább 5 percet.</string>
     <string name="lab_temperature_patch">Hőérzékelő</string>
-    <string name="lab_temperature_select">"Device's body temperature value"</string>
+    <string name="lab_temperature_select">"Az eszköz testhőmérsékletének értéke"</string>
     <string name="lab_unbind_device">Nincs párosított eszköz</string>
     <string name="lab_upload_cancel">Mégse</string>
     <string name="lab_upload_fail">Nem sikerült feltölteni</string>
@@ -2771,7 +2771,7 @@ Frissítse a telefonját a legújabb MIUI-verzióra"</string>
     <string name="mine_ave_totaldistance">Km összesen</string>
     <string name="mine_ave_totaldistance_british">Mérföld összesen</string>
     <string name="mine_band_skin">Karkötőm témái</string>
-    <string name="mine_collection">Favorites</string>
+    <string name="mine_collection">Kedvencek</string>
     <string name="mine_course">Edzésmeneteim</string>
     <string name="mine_device">Eszközeim</string>
     <string name="mine_favorite">Hozzáadás a kedvencekhez</string>
@@ -3007,8 +3007,8 @@ Mégis letölti a videókat (%.2f MB)?"</string>
     <string name="notification_switch_title">Állapot kijelzése az értesítési felületen</string>
     <string name="notification_tip">Kapcsolja be, ha nem kap értesítéseket</string>
     <string name="notification_title">Állapot kijelzése az értesítési felületen</string>
-    <string name="notify_after_unlock">"No notifications when the phone's screen is turned off, send notifications once the phone is unlocked."</string>
-    <string name="notify_multiple">SMS or app notifications have been synced multiple times</string>
+    <string name="notify_after_unlock">"Nincs értesítés, ha a telefon képernyője ki van kapcsolva, értesítések küldése a telefon zárolásának feloldása után."</string>
+    <string name="notify_multiple">Az SMS vagy alkalmazás értesítéseket többször is szinkronizálva lettek</string>
     <string name="notify_status_motor">Rezgés</string>
     <string name="notify_status_motor_alarm">Ébresztés</string>
     <string name="notify_status_motor_auth">Érintse meg ha a karkötő rezeg</string>
@@ -3048,8 +3048,8 @@ Mégis letölti a videókat (%.2f MB)?"</string>
     <string name="only_once">Egyszer</string>
     <string name="open">Bekapcsolás</string>
     <string name="open_about_rem">Alvásfigyelő asszisztens engedélyezése.</string>
-    <string name="open_about_rem_tipe">Enable the sleep monitoring assistant to acquire REM data.</string>
-    <string name="open_all_location_per_msg">Mi Fit collects location data to ensure that the \"Bluetooth connected devices\" function works, even when the app is closed or not in use.</string>
+    <string name="open_about_rem_tipe">Engedélyezi az alvásfigyelő asszisztens számára a REM adatok megszerzését.</string>
+    <string name="open_all_location_per_msg">A Mi Fit gyűjti a helyadatokat annak biztosítása érdekében, hogy a \ "Bluetooth-hoz csatlakoztatott eszközök \" funkció akkor is működjön, ha az alkalmazás bezárt vagy nincs használatban.</string>
     <string name="open_auto_hr_detect_tips">Be kell állítani a gyakoriságot, ha az automatikus pulzusérzékelés bekapcsolásra kerül</string>
     <string name="open_avoid_disturb_tips">Ne zavarjanak mód</string>
     <string name="open_device_maximum_device_count_tips">Legfeljebb 2 eszközt engedélyezhet</string>
@@ -3142,7 +3142,7 @@ A napi tevékenységek vagy edzések bizonyos intenzitásának fenntartásával 
     <string name="pai_open_failed_tips">Ellenőrizze, hogy a Bluetooth pulzusmérő készülék megfelelő módon csatlakozik-e.</string>
     <string name="pai_open_ok">Sikeresen bekapcsolva</string>
     <string name="pai_open_ok_tips">Beállításához, menjen a Profil > Eszközeim > Pulzusérzékelés lehetőségbe.</string>
-    <string name="pai_open_ok_tips_v2">To adjust it, go to Profile > My devices > Heart rate detection</string>
+    <string name="pai_open_ok_tips_v2">Beállításához lépjen a Profil> Saját készülékek> Szívritmus érzékelés lehetőségre</string>
     <string name="pai_progress_h">Intenzív</string>
     <string name="pai_progress_l">Alacsony</string>
     <string name="pai_progress_m">Közepes</string>
@@ -3189,22 +3189,22 @@ Következő cél: 50 PAI"</string>
     <string name="percentage">%</string>
     <string name="permission_cam">Engedélyezze a Mi Fit hozzáférését a kamerához</string>
     <string name="permission_contact">Engedélyezze a Mi Fit hozzáférését a névjegyekhez</string>
-    <string name="permission_denied_incomming_call">"In order to ensure the normal use of the incoming call reminder function, the app needs to acquire the \"Access to phone's call history\", \"Access to phone contacts\", \"Access to call status\", \"Make calls\", and \"Answer calls\" permissions."</string>
-    <string name="permission_denied_msg_activity_recognition">In order to ensure the workout data is displayed normally, the app needs to acquire the \"Access to fitness and workout data\" permission.</string>
-    <string name="permission_denied_msg_camera_bind_shoes">In order to scan the QR code of the device, the app needs to acquire the \"Take photos &amp; record videos\" permission to use the camera.</string>
-    <string name="permission_denied_msg_camera_select_camera">In order to take pictures normally, the app needs to acquire the \"Take photos &amp; record videos\" permission to use the camera.</string>
-    <string name="permission_denied_msg_home_answer_phone_calls">In order to ensure the device can answer or reject calls during incoming call reminders, the app needs to acquire the \"Answer calls\" permission.</string>
-    <string name="permission_denied_msg_home_basic">In order to save and share images, the app needs to acquire the \"Access to photos, media content, and other files\" permission.</string>
-    <string name="permission_denied_msg_home_call_phone">In order to ensure the device can answer or reject calls during incoming call reminders, the app needs to acquire the \"Make calls\" permission.</string>
-    <string name="permission_denied_msg_home_location">In order to ensure the weather on the device is in real-time and accurate, the app needs to be set to \"Always allow\" access to location info.</string>
-    <string name="permission_denied_msg_home_read_call_log">To ensure the device can display incoming calls, the \"Access to call history\" permission needs to be enabled.</string>
-    <string name="permission_denied_msg_home_read_contacts">"To ensure the device can display the caller's name during incoming call reminders, the \"Access to phone contacts\" permission needs to be enabled."</string>
-    <string name="permission_denied_msg_home_read_phone_state">In order to ensure the device can receive the status of incoming calls, the app needs to acquire the \"Access to call status\" permission.</string>
-    <string name="permission_denied_msg_home_storage">In order to ensure the normal display and playback of photos and audio, the app needs to acquire the \"Access to photos, media content, and other files\" permission.</string>
-    <string name="permission_denied_msg_location">"During outdoor workouts, the app needs to locate the phone's location in the background to facilitate the real-time and accurate recording of the workout's route, therefore the app needs to be set to \"Always allow\" to access the location info."</string>
-    <string name="permission_denied_msg_location_for_ble">This device connects via Bluetooth Low Energy (BLE). According to the regulations of the Android platform, location info is required when BLE scans for devices, so the location needs to be enabled to allow the app to acquire the location info.</string>
-    <string name="permission_denied_msg_storage_select_image">In order to upload pictures normally, the app needs to acquire the \"Access to photos, media content, and other files\" permission.</string>
-    <string name="permission_denined_msg_watermark_share">In order to take pictures normally, the app needs to acquire the \"Take photos &amp; record videos\" permission to use the camera.</string>
+    <string name="permission_denied_incomming_call">"A bejövő hívás emlékeztető funkciójának normál használatának biztosítása érdekében az alkalmazásnak rendelkeznie kell a \ "Hozzáférés a telefon híváslistájához \",\"Hozzáférés a telefon névjegyeihez\",\"Hozzáférés a hívás állapotához \",\"Hívások\"és\" Hívások fogadása\"engedéllyel."</string>
+    <string name="permission_denied_msg_activity_recognition">Az edzésadatok normál megjelenítésének biztosítása érdekében az alkalmazásnak rendelkeznie kell a \"Hozzáférés a fitnesz- és edzésadatokhoz\" engedéllyel.</string>
+    <string name="permission_denied_msg_camera_bind_shoes">Az eszköz QR-kódjának beolvasásához az alkalmazásnak rendelkeznie kell a \ "Fotók és videók rögzítése \" engedéllyel a kamera használatához.</string>
+    <string name="permission_denied_msg_camera_select_camera">A megfelelő képkészítéshez az alkalmazásnak rendelkeznie kell a \ "Fotók és videók rögzítése \" engedéllyel a kamera használatához.</string>
+    <string name="permission_denied_msg_home_answer_phone_calls">Annak biztosítása érdekében, hogy a készülék bejövő hívásemlékeztetők során tudja fogadni vagy elutasítani a hívásokat, az alkalmazásnak rendelkeznie kell a\"Hívások fogadása\" engedéllyel.</string>
+    <string name="permission_denied_msg_home_basic">Képek mentése és megosztása érdekében az alkalmazásnak meg kell szereznie a \"Hozzáférés a fényképekhez, médiatartalmakhoz és más fájlokhoz \" engedélyt.</string>
+    <string name="permission_denied_msg_home_call_phone">Annak biztosítása érdekében, hogy a készülék bejövő hívásemlékeztetők során tudja fogadni vagy elutasítani a hívásokat, az alkalmazásnak meg kell szereznie a \"Hívások kezdeményezése\" engedélyt.</string>
+    <string name="permission_denied_msg_home_location">Annak biztosítása érdekében, hogy az eszköz időjárása valós idejű és pontos legyen, az alkalmazást úgy kell beállítani, hogy \"Mindig engedélyezze\" a helyadatokhoz való hozzáférést.</string>
+    <string name="permission_denied_msg_home_read_call_log">Annak biztosítása érdekében, hogy az eszköz képes legyen bejövő hívások megjelenítésére, engedélyezni kell a \"Hozzáférés a híváslistához\" engedélyt.</string>
+    <string name="permission_denied_msg_home_read_contacts">"Annak biztosítása érdekében, hogy a készülék bejövő hívásemlékeztetők során megjeleníthesse a hívó nevét, engedélyezni kell a \"Hozzáférés a telefonos névjegyekhez\" engedélyt."</string>
+    <string name="permission_denied_msg_home_read_phone_state">Annak biztosítása érdekében, hogy az eszköz érzékelni tudja a bejövő hívások állapotát, az alkalmazásnak meg kell szereznie a \"Hozzáférés a hívás állapotához\" engedélyt.</string>
+    <string name="permission_denied_msg_home_storage">A fényképek és hangok normál megjelenítésének és lejátszásának biztosítása érdekében az alkalmazásnak meg kell szereznie a \"Hozzáférés a fotókhoz, médiatartalmakhoz és más fájlokhoz\" engedélyt.</string>
+    <string name="permission_denied_msg_location">"A szabadtéri edzések során az alkalmazásnak meg kell találnia a telefon helyét a háttérben, hogy megkönnyítse az edzés útvonalának valós idejű és pontos rögzítését, ezért az alkalmazást \"Mindig engedélyezze\" értékre kell állítani, hogy hozzáférjen a helyinformációkhoz."</string>
+    <string name="permission_denied_msg_location_for_ble">Ez az eszköz Bluetooth Low Energy (BLE) kapcsolaton keresztül csatlakozik. Az Android platform előírásai szerint helyinformációkra van szükség, amikor a BLE eszközöket keres, ezért engedélyezni kell a helyhozzáférést, hogy az alkalmazás megszerezhesse a helyinformációkat.</string>
+    <string name="permission_denied_msg_storage_select_image">A képek normál feltöltéséhez az alkalmazásnak meg kell szereznie a \"Hozzáférés a fényképekhez, médiatartalmakhoz és más fájlokhoz\" engedélyt.</string>
+    <string name="permission_denined_msg_watermark_share">A normál képkészítéshez az alkalmazásnak meg kell szereznie a \"Fényképek készítése és videók rögzítése\" engedélyt a kamera használatához.</string>
     <string name="permission_disturb_call">Telefon csengőhangjának némítása a karkötővel bejövő hívások esetén</string>
     <string name="permission_disturb_call_watch">Telefon csengőhangjának némítása a karórával bejövő hívások esetén</string>
     <string name="permission_disturb_msg">A \"Bejövő hívás\" funkció használatához Ne zavarjanak engedély szükséges. Ha bekapcsolja ezt a funkciót, akkor a bejövő hívások esetén a karkötővel némíthatja a telefonon a csengőhangot.</string>
@@ -3212,76 +3212,76 @@ Következő cél: 50 PAI"</string>
     <string name="permission_disturb_msg_watch">A \"Bejövő hívás\" funkció használatához Ne zavarjanak engedély szükséges. Ha bekapcsolja ezt a funkciót, akkor a bejövő hívások esetén a karórával némíthatja a telefonon a csengőhangot.</string>
     <string name="permission_disturb_title">Ne zavarjanak engedély szükséges</string>
     <string name="permission_disturb_title_sub">Ne zavarjanak engedély szükséges</string>
-    <string name="permission_item_desc_camera">"This permission ensures that the app can use the phone's camera, which will be used to scan QR codes, take photos and upload avatars, to post in the community, and to change custom watch faces when using the paired device."</string>
-    <string name="permission_item_desc_location">Weather function: In order to locate your region and to display accurate weather data.</string>
-    <string name="permission_item_desc_read_call_log">Needed for the incoming call reminder function, which allows the device to display incoming call reminders.</string>
-    <string name="permission_item_desc_read_contacts">"Needed for the incoming call reminder function, which allows the device to display the caller's name upon incoming calls."</string>
-    <string name="permission_item_desc_read_phone_state">Needed for the incoming call reminder function, which allows the device to answer and reject incoming calls.</string>
-    <string name="permission_item_desc_recognition">This permission allows the app to access the workout info recorded by the phone so that other workout data can still be calculated through the phone when you are not wearing the device.</string>
-    <string name="permission_item_desc_record_audio">Required for recording videos when posting in the community</string>
-    <string name="permission_item_desc_storage">This permission allows the app to store or read data to ensure the use of some basic functions, such as app offline audio files, image cache files, app log files, upload images, etc.</string>
-    <string name="permission_item_location_desc">"This permission allows the app to acquire the location information from the phone to ensure the use of some functions. Take the following functions as an example. 
+    <string name="permission_item_desc_camera">"Ez az engedély biztosítja, hogy az alkalmazás képes legyen használni a telefon kameráját, amelyet QR-kódok beolvasására, fényképek készítésére és avatarok feltöltésére, a közösségben való közzétételre, valamint az egyedi órák arcának megváltoztatására használnak a párosított eszköz használatakor."</string>
+    <string name="permission_item_desc_location">Időjárás funkció: A régió megtalálásához és a pontos időjárási adatok megjelenítéséhez.</string>
+    <string name="permission_item_desc_read_call_log">Szüksége van a bejövő hívás emlékeztető funkciójához, amely lehetővé teszi a készülék számára a bejövő hívás emlékeztetőinek megjelenítését.</string>
+    <string name="permission_item_desc_read_contacts">"Szüksége van a bejövő hívás emlékeztető funkciójához, amely lehetővé teszi az eszköz számára, hogy bejövő hívásokkor megjelenítse a hívó nevét."</string>
+    <string name="permission_item_desc_read_phone_state">Szüksége van a bejövő hívás emlékeztető funkciójára, amely lehetővé teszi a készülék számára a bejövő hívások fogadását és elutasítását.</string>
+    <string name="permission_item_desc_recognition">Ez az engedély lehetővé teszi az alkalmazás számára, hogy hozzáférjen a telefon által rögzített edzésinformációkhoz, így az edzés egyéb adatai továbbra is rögzítve lesznek a telefonon keresztül, amikor Ön nem viseli az eszközt.</string>
+    <string name="permission_item_desc_record_audio">Szükséges a videók rögzítéséhez a közösségi médiákban történő közzétételkor</string>
+    <string name="permission_item_desc_storage">Ez az engedély lehetővé teszi az alkalmazás számára, hogy adatokat tároljon vagy olvasson bizonyos alapvető funkciók használatának biztosítása érdekében, például az alkalmazás offline audio fájljai, képgyorsítótár-fájlok, alkalmazásnapló-fájlok, képek feltöltése stb.</string>
+    <string name="permission_item_location_desc">"Ez az engedély lehetővé teszi az alkalmazás számára, hogy bizonyos funkciók használatának biztosítása érdekében megszerezze a helyinformációkat a telefonról. Vegyük példaként a következő funkciókat. 
 
-Bluetooth connection: According to the Android platform, when low-power Bluetooth scans for devices, it requires access to the phone's location information, otherwise it cannot be used. 
-Outdoor sports function: In order to record the sports route accurately. 
-Weather function: In order to locate your area and display accurate weather data."</string>
-    <string name="permission_item_read_contacts">Access to phone contacts</string>
-    <string name="permission_item_record_audio">Record audio</string>
-    <string name="permission_item_title_camera">Take photos &amp; record videos</string>
-    <string name="permission_item_title_location">"Acquire phone's location info"</string>
-    <string name="permission_item_title_read_call_log">"Access to phone's call history"</string>
-    <string name="permission_item_title_read_phone_state">Access incoming call status</string>
-    <string name="permission_item_title_recognition">Access to fitness and workout data</string>
-    <string name="permission_item_title_storage">Access to photos, media content, and other files.</string>
+Bluetooth-kapcsolat: Az Android platform szerint az alacsony energiafogyasztású Bluetooth-eszközök keresésekor hozzáférést igényel a telefon helyinformációihoz, különben nem lehet használni. 
+Szabadtéri sport funkció: A sportút pontos rögzítése érdekében. 
+Időjárás funkció: A terület megkeresése és a pontos időjárási adatok megjelenítése érdekében."</string>
+    <string name="permission_item_read_contacts">Hozzáférés a telefonos névjegyekhez</string>
+    <string name="permission_item_record_audio">Hang rögzítése</string>
+    <string name="permission_item_title_camera">Fényképek készítése és videók rögzítése</string>
+    <string name="permission_item_title_location">"A telefon helyadatainak a megszerzése"</string>
+    <string name="permission_item_title_read_call_log">"Hozzáférés a telefon híváselőzményeihez"</string>
+    <string name="permission_item_title_read_phone_state">Bejövő hívás állapotának elérésére</string>
+    <string name="permission_item_title_recognition">Hozzáférés a fitnesz- és edzésadatokhoz</string>
+    <string name="permission_item_title_storage">Hozzáférés fényképekhez, médiatartalmakhoz és egyéb fájlokhoz.</string>
     <string name="permission_location">Engedélyezze a Mi Fit hozzáférését a helyinformációhoz</string>
-    <string name="permission_manager_button_text">App permission management page</string>
+    <string name="permission_manager_button_text">Alkalmazásengedély-kezelési lap</string>
     <string name="permission_phone">A Mi Fit kéri, hogy hozzáférjen a \"Telefonhoz\"</string>
-    <string name="permission_rationale_bind_shoes">"To ensure the normal use of the device's pairing function, the app needs to acquire the following permissions:
-Take photos &amp; record videos
-This device needs to use the camera to scan the paired device
-Access location information
-This device connects via Bluetooth Low Energy (BLE). According to the regulations of the Android platform, location info is required when BLE scans for devices, so the location needs to be enabled to allow the app to acquire the location info."</string>
-    <string name="permission_rationale_bind_shoes_v1">"To ensure the normal use of the device's pairing function, the app needs to acquire the following permissions:
-· Take photos &amp; record videos
-This device needs to use the camera to scan the paired device
-· Access location information
-This device connects via Bluetooth Low Energy (BLE). According to the regulations of the Android platform, location info is required when BLE scans for devices, so the location needs to be enabled to allow the app to acquire the location info."</string>
-    <string name="permission_rationale_denied_storage_bank">"In order to use the bank card function normally, the app needs to acquire the following permissions: 
-· \"Take photos &amp; record videos\" permission
-· \"Access to call status\" permission
-· \"Make calls\" permission"</string>
-    <string name="permission_rationale_home_band_device">"To ensure the following features function properly for the app and [%1$s], these permissions need to be acquired: 
-Basic permissions: 
-Enable the phone's Bluetooth and make sure the device can normally connect to the phone's Bluetooth. 
-Access location information to ensure that the device can normally connect to the phone's Bluetooth. 
-Access to photos, media content, and other files, to ensure that pictures, videos, and other files can be normally displayed, played, and saved. 
-Access to workout data, to ensure that the device's workout data can be normally displayed in the app. 
-Required incoming call permissions: 
-Access to phone's call history to ensure that the device can display incoming calls. 
-Access to call status, to ensure that the device can receive the phone status. 
-Making call permission, to ensure that the device can answer or end phone calls. 
-Receiving call permission, to ensure that the device can answer or end phone calls."</string>
-    <string name="permission_rationale_home_basic">"In order to save and share images, the app needs to acquire the following permissions: 
-Access to photos, media content, and other files\"
-This permission allows the app to read and write data from the phone to ensure normal display, saving and playback of basic images and audio."</string>
-    <string name="permission_rationale_location_for_ble">"To ensure the normal use of the device's pairing function, the app needs to acquire the following permissions:
-Access to location information
-This device connects via Bluetooth Low Energy (BLE). According to the regulations of the Android platform, location info is required when BLE scans for devices, so the location needs to be enabled to allow the app to acquire the location info."</string>
-    <string name="permission_rationale_msg_camera_select_image">"In order to ensure that the pictures you take or save can be uploaded to the app properly, the app needs to acquire the following permissions: 
+    <string name="permission_rationale_bind_shoes">"Az eszköz párosítási funkciója szokásos használatának biztosításához az alkalmazásnak a következő engedélyeket kell beszereznie:
+Fényképek készítése és videók rögzítése
+Ennek az eszköznek a kamerát kell használnia a párosított eszköz beolvasásához
+Hozzáférés a helyinformációkhoz
+Ez az eszköz Bluetooth Low Energy (BLE) kapcsolaton keresztül csatlakozik. Az Android platform előírásai szerint helyinformációkra van szükség, amikor a BLE eszközöket keres, ezért engedélyezni kell a helyhozzáférést, hogy az alkalmazás megszerezhesse a helyinformációkat."</string>
+    <string name="permission_rationale_bind_shoes_v1">"Az eszköz párosítási funkciójának normál használatának biztosítása érdekében az alkalmazásnak a következő engedélyeket kell megszereznie:
+· Fényképek készítése és videók rögzítése
+Ennek az eszköznek a kamerát kell használnia a párosított eszköz beolvasásához
+· Hozzáférés a helyinformációkhoz
+Ez az eszköz Bluetooth Low Energy (BLE) kapcsolaton keresztül csatlakozik. Az Android platform előírásai szerint helyinformációkra van szükség, amikor a BLE eszközöket keres, ezért engedélyezni kell a helyet, hogy az alkalmazás megszerezhesse a helyinformációkat."</string>
+    <string name="permission_rationale_denied_storage_bank">"A bankkártya funkció normális használatához az alkalmazásnak a következő engedélyeket kell megszereznie: 
+· \"Fényképek készítése és videók rögzítése\" engedély
+· \"Hozzáférés a hívás állapotához\" engedély
+· \"Hívások kezdeményezése\" engedély"</string>
+    <string name="permission_rationale_home_band_device">"Annak biztosításához, hogy a következő funkciók megfelelően működjenek az alkalmazáshoz és a [%1$s], ezeket az engedélyeket be kell szerezni:  
+Alapvető engedélyek: 
+Engedélyezze a telefon Bluetooth-kapcsolatát, és győződjön meg arról, hogy a készülék képes csatlakozni a telefon Bluetooth-jához. 
+A helyadatok eléréséhez győződjön meg arról, hogy az eszköz általában csatlakozni a telefon Bluetooth-jához. 
+Hozzáférés a fotókhoz, a médiatartalmakhoz és más fájlokhoz annak biztosítása érdekében, hogy a képek, videók és egyéb fájlok normálisan megjeleníthetők, lejátszhatók és elmenthetők legyenek. 
+Hozzáférés az edzésadatokhoz annak biztosítása érdekében, hogy az eszköz edzésadatai normálisan megjelenjenek az alkalmazásban. 
+Szükséges bejövő hívások engedélyei: 
+Hozzáférés a telefon hívási előzményeihez annak biztosítása érdekében, hogy az eszköz megjeleníthesse a bejövő hívásokat. 
+Hozzáférés a hívásállapothoz, annak biztosítása érdekében, hogy az eszköz megismerje a telefon állapotát. 
+Hívási engedély megadása annak biztosítása érdekében, hogy a készülék tudjon fogadni vagy befejezni telefonhívásokat. 
+Hívási engedély megadása annak biztosítása érdekében, hogy a készülék tudjon fogadni vagy befejezni telefonhívásokat."</string>
+    <string name="permission_rationale_home_basic">"Képek mentése és megosztása érdekében az alkalmazásnak a következő engedélyeket kell megszereznie: 
+Hozzáférés a fotókhoz, a médiatartalmakhoz és a fájlokhoz\"
+Ez az engedély lehetővé teszi az alkalmazás számára, hogy adatokat olvasson és írjon a telefonról, hogy biztosítsa az alapvető képek és hang normál megjelenítését, mentését és lejátszását."</string>
+    <string name="permission_rationale_location_for_ble">"Az eszköz párosítási funkciójának normál használatának biztosítása érdekében az alkalmazásnak a következő engedélyeket kell megszereznie:
+Hozzáférés a helyinformációkhoz
+Ez az eszköz Bluetooth Low Energy (BLE) kapcsolaton keresztül csatlakozik. Az Android platform előírásai szerint helyinformációkra van szükség, amikor a BLE eszközöket keres, ezért engedélyezni kell a helyhozzáférést, hogy az alkalmazás megszerezhesse a helyinformációkat."</string>
+    <string name="permission_rationale_msg_camera_select_image">"Annak biztosítása érdekében, hogy a készített vagy mentett képeket megfelelően feltölthesse az alkalmazásba, az alkalmazásnak a következő engedélyeket kell megszereznie:
 
-· Take photos &amp; record videos"</string>
-    <string name="permission_rationale_storage_select_image">"In order to ensure that the pictures you take or save can be uploaded to the app properly, the app needs to acquire the following permissions: 
+· Fényképek készítése és videók rögzítése"</string>
+    <string name="permission_rationale_storage_select_image">"Annak biztosítása érdekében, hogy a készített vagy mentett képeket megfelelően feltölthesse az alkalmazásba, az alkalmazásnak a következő engedélyeket kell megszereznie: 
 
-· Access to photos, media content, and files"</string>
-    <string name="permission_request_msg_image_share">In order to save and share images, the app needs to acquire the \"Access to photos, media content, and other files\" permission.</string>
-    <string name="permission_request_msg_location">"During outdoor workouts, the app needs the following permissions in order to accurately record your movements in real-time and to ensure accurate display of exercise data
+· Hozzáférés a fotókhoz, a médiatartalmakhoz és a fájlokhoz"</string>
+    <string name="permission_request_msg_image_share">Képek mentése és megosztása érdekében az alkalmazásnak meg kell szereznie a \ "Hozzáférés a fényképekhez, médiatartalmakhoz és más fájlokhoz \" engedélyt.</string>
+    <string name="permission_request_msg_location">"A szabadtéri edzések során az alkalmazásnak a következő engedélyekre van szüksége a mozgás valós idejű rögzítéséhez és az edzésadatok pontos megjelenítéséhez
 
-· \"Always allow\" Access to location information
-· Access to workout data"</string>
-    <string name="permission_request_msg_watermark_share">"In order to ensure that the pictures you take or save can be uploaded to the app properly, the app needs to acquire the following permissions: 
+· \"Mindig engedélyez\" Hozzáférés a helyinformációkhoz
+· Hozzáférés az edzésadatokhoz"</string>
+    <string name="permission_request_msg_watermark_share">"Annak biztosítása érdekében, hogy a készített vagy mentett képeket megfelelően feltölthesse az alkalmazásba, az alkalmazásnak a következő engedélyeket kell megszereznie: 
 
-· Access to photos, media content, and files
-· Take photos &amp; record videos"</string>
+· Hozzáférés a fotókhoz, a médiatartalmakhoz és a fájlokhoz
+· Fényképek készítése és videók rögzítése"</string>
     <string name="permission_sdcard">Engedélyezze a Mi Fit hozzáférését a háttértárhoz</string>
     <string name="permission_sms">Engedélyezze a Mi Fit hozzáférését az Üzenetekhez</string>
     <string name="permisson_tips_dialog_msg">Érintse meg az \"OK\"-t a Mi Fit alkalmazás alábbi engedélyeinek megadásához a Beállításokban.</string>
@@ -3310,7 +3310,7 @@ This device connects via Bluetooth Low Energy (BLE). According to the regulation
     <string name="phone_code_in_verify">Ellenőrzés…</string>
     <string name="phone_code_sending">Egy pillanat…</string>
     <string name="phone_code_verify_failed">Az ellenőrző kód helytelen, próbálkozzon újra</string>
-    <string name="phone_end_all">If the second incoming call is rejected by the device, the first call will also be hung up.</string>
+    <string name="phone_end_all">Ha a készülék elutasítja a második bejövő hívást, akkor az első hívást is leteszi a telefon.</string>
     <string name="phone_forget_password_tips">Adja meg a telefonszámát, és hitelesítse a jelszó visszaállításához</string>
     <string name="phone_forget_password_title">Jelszó helyreállítása</string>
     <string name="phone_had_register">Ezzel a telefonszámmal már regisztráltak, jelentkezzen be közvetlenül</string>
@@ -3323,7 +3323,7 @@ This device connects via Bluetooth Low Energy (BLE). According to the regulation
     <string name="phone_register_failed">A műveletet nem sikerült befejezni, próbálja újra</string>
     <string name="phone_request_reset_pwd_code_failed">Küldés sikertelen, próbálja újra</string>
     <string name="phone_request_reset_pwd_code_too_fre">Túl sok próbálkozás, próbálja meg újra később</string>
-    <string name="phone_without_name">"Don't show contacts"</string>
+    <string name="phone_without_name">"Ne mutasson névjegyeket"</string>
     <string name="physical_fit_status">Fizikai erőnléti állapot</string>
     <string name="physical_fit_status_maximum_oxygen_uptake">VO₂ max</string>
     <string name="physical_fit_status_recovery_time">Regenerálódási idő</string>
@@ -3446,7 +3446,7 @@ meztelen lábakkal"</string>
     <string name="read_less">Elrejtés</string>
     <string name="read_more">Továbbiak</string>
     <string name="read_notification">Az értesítési sáv használatára vonatkozó engedélyek</string>
-    <string name="read_phone_state">Call status reading permissions</string>
+    <string name="read_phone_state">Hívásállapotának-olvasási engedélye</string>
     <string name="rebind_weibo_health">Hozzáadás újra</string>
     <string name="recommend_app_name">Amazfit Egészség</string>
     <string name="recommend_setting_item_title">Személyre szabott ajánlás</string>
@@ -3495,7 +3495,7 @@ meztelen lábakkal"</string>
     <string name="relatives_date_time_format_one">%1$s %2$s</string>
     <string name="relatives_date_today">Ma</string>
     <string name="relatives_date_yMd_unit_pattern">yyyy. MM. dd.</string>
-    <string name="relatives_delete_failed">"Couldn't delete"</string>
+    <string name="relatives_delete_failed">"Törlés nem sikerült"</string>
     <string name="relatives_focus_fail">Nem adható hozzá</string>
     <string name="relatives_focus_success">Elfogad</string>
     <string name="relatives_friend_list_get_error">Nem sikerült betölteni a barátok listát</string>
@@ -3538,7 +3538,7 @@ az ön tevékenység- és alvásadatait"</string>
     <string name="relatives_label_mileage">Távolság (%s)</string>
     <string name="relatives_label_more">Egyéb</string>
     <string name="relatives_label_my_qrcode">QR-kódom</string>
-    <string name="relatives_label_my_qrcode_tips">Scan QR code with %s</string>
+    <string name="relatives_label_my_qrcode_tips">QR-kód beolvasása a %s</string>
     <string name="relatives_label_no_care_time_by_me">Nincs bökés</string>
     <string name="relatives_label_no_update">Még nem volt frissítve</string>
     <string name="relatives_label_qrcode_error">QR-kód beolvasási hiba!</string>
@@ -3553,7 +3553,7 @@ az ön tevékenység- és alvásadatait"</string>
     <string name="relatives_label_search_add">Barátok hozzáadása azonosítójuk alapján</string>
     <string name="relatives_label_search_result_empty">Nincs ilyen ID! Próbálja újra!</string>
     <string name="relatives_label_share_friend_invite">Barátok meghívása</string>
-    <string name="relatives_label_share_friend_invite_content">%1$s invited you via %2$s</string>
+    <string name="relatives_label_share_friend_invite_content">%1$s keresztül hívta meg %2$s</string>
     <string name="relatives_label_share_info_1">QR-kód beolvasása %s</string>
     <string name="relatives_label_share_info_2">"QR-kód mentése a telefonra, koppintson a \"QR-kód beolvasása\" elemre a %s-ban,
 és nyissa meg a Galériát a kód beolvasásához."</string>
@@ -3575,19 +3575,19 @@ a fitnesz adataik megtekintéséhez"</string>
     <string name="relatives_no_network_connection">Nem lehet kapcsolódni a hálózathoz</string>
     <string name="relatives_not_connect_network">Nem lehet kapcsolódni a hálózathoz</string>
     <string name="relatives_per_go_setting">Beállítások megnyitása</string>
-    <string name="relatives_permision_tip">In order to scan the QR code of friends and family, the app needs to acquire the \"Take photos &amp; record videos\" permission to use the camera.</string>
-    <string name="relatives_permission_cam">Allow %s to access to \"camera\"</string>
+    <string name="relatives_permision_tip">A barátok és a család QR-kódjának beolvasásához az alkalmazásnak meg kell szereznie a \ "Fényképek készítése és videók rögzítése \" engedélyt a kamera használatához.</string>
+    <string name="relatives_permission_cam">Engedélyezze %s hozzáférését a \"kamerához\" </string>
     <string name="relatives_permisson_tips_dialog_title">Értesítések</string>
     <string name="relatives_person_info_finish">Kész</string>
     <string name="relatives_refuse_fail">Nem sikerült elutasítani</string>
-    <string name="relatives_refuse_success">Reject request</string>
+    <string name="relatives_refuse_success">Kérelem elutasítása</string>
     <string name="relatives_relation_data_loading">Egy pillanat…</string>
     <string name="relatives_relation_loading">Betöltés…</string>
-    <string name="relatives_scan_add_friend">Scan QR Code to Add Friends</string>
-    <string name="relatives_send_fail">"Couldn't send friend request"</string>
-    <string name="relatives_send_success">Friend request sent</string>
+    <string name="relatives_scan_add_friend">QR-kód beolvasása az ismerősök hozzáadásához</string>
+    <string name="relatives_send_fail">"Nem sikerült Ismerősnek jelölés kérelmet küldeni"</string>
+    <string name="relatives_send_success">Ismerősnek jelölés elküldve</string>
     <string name="relatives_sending">Küldés…</string>
-    <string name="relatives_server_fault">This feature is under maintenance. Please try again later.</string>
+    <string name="relatives_server_fault">Ez a szolgáltatás karbantartás alatt áll. Kérjük, próbálja újra később.</string>
     <string name="relatives_share_to">Ossza meg vele</string>
     <string name="relatives_share_to_friends">Megosztás a barátokkal</string>
     <string name="relatives_share_to_topic">\#%s#</string>
@@ -3667,14 +3667,14 @@ a fitnesz adataik megtekintéséhez"</string>
     <string name="run_share_dialog_saving">Mentés…</string>
     <string name="run_share_dialog_share_content">Közösségi platform megnyitása az edzés videók megosztására.</string>
     <string name="run_share_dialog_share_title">A videót elmentettük az albumba.</string>
-    <string name="run_share_record_permission_refuse">"Couldn't save, please try again later."</string>
-    <string name="run_share_save_permission_refuse">"Couldn't save, please grant storage permissions."</string>
+    <string name="run_share_record_permission_refuse">"Nem sikerült menteni, próbálkozzon újra később."</string>
+    <string name="run_share_save_permission_refuse">"Nem sikerült menteni, kérjük, adja meg a tárolási engedélyeket."</string>
     <string name="run_share_track_video_save">Videó mentése</string>
     <string name="run_share_track_video_share">Videó megosztása</string>
     <string name="run_share_type">Megosztás ezzel:</string>
     <string name="run_share_type_cam">Vízjel</string>
     <string name="run_share_type_img">Edzés-jelentés</string>
-    <string name="run_share_type_video">Route video</string>
+    <string name="run_share_type_video">Útvonal videó</string>
     <string name="run_step">Lépés</string>
     <string name="run_unit_afternoon">du.</string>
     <string name="run_unit_evening">du.</string>
@@ -4437,7 +4437,7 @@ Amazfit alkalmazás letöltéséhez"</string>
     <string name="sleep_3_turn_over">Átfordulás</string>
     <string name="sleep_3_turn_over_unit">fordulás</string>
     <string name="sleep_about_nap">20 perces vagy annál hosszabb alvási idők kerülnek rögzítésre.</string>
-    <string name="sleep_about_nap_lable">The minimum time for a nap to be recorded is about 20 minutes.</string>
+    <string name="sleep_about_nap_lable">Az alvás rögzítésének a minimális ideje körülbelül 20 perc.</string>
     <string name="sleep_all_time">Ágyban</string>
     <string name="sleep_awake">Ébren</string>
     <string name="sleep_awake_duration">Ébren töltött idő</string>
@@ -4818,7 +4818,7 @@ a jobb alvásanalízis eléréshez"</string>
     <string name="start_device_failed">Aktiválás sikertelen</string>
     <string name="start_device_now">Egy pillanat…</string>
     <string name="start_device_success">Készülék sikeresen aktiválva</string>
-    <string name="start_diagnosing">Start diagnosis</string>
+    <string name="start_diagnosing">Diagnosztika indítása</string>
     <string name="start_download">Letöltés a háttérben…</string>
     <string name="start_measure">Mérés indítása</string>
     <string name="start_one_scientific_training">Tudományos edzés indítása</string>
@@ -4989,7 +4989,7 @@ Letölti az összes videót az edzésmenethez (%.1f MB)?"</string>
     <string name="tag_notification">Értesítések</string>
     <string name="tagging_fail_and_not_save">Nem sikerült a küldés és az adatok mentése</string>
     <string name="tagging_finish">Befejezés</string>
-    <string name="tagging_nmea_tip">"Once started, please enable the device's GPS and keep the device and the phone within 5 meters from each other."</string>
+    <string name="tagging_nmea_tip">"Miután elindította, kérjük, engedélyezze a készüléken GPS-t, és tartsa a készüléket és a telefont egymástól 5 méteren belül."</string>
     <string name="tagging_pause">Tartsa nyomva a szüneteltetéshez</string>
     <string name="tagging_resume">Tovább</string>
     <string name="tagging_time_too_short">A címkézés túl rövid a rögzítéshez</string>
@@ -5040,7 +5040,7 @@ Győződjön meg róla, hogy a két készülék között nincs más tárgy."</st
     <string name="title_add_friend">+ Követés</string>
     <string name="title_call_log_per">Engedélyezze a \"Hívásnapló\" elérését</string>
     <string name="title_call_log_per_s">Engedélyezze a \"Hívásnapló\" elérését</string>
-    <string name="title_feedback_dialog">Please select a question and go to the feedback page.</string>
+    <string name="title_feedback_dialog">Válasszon egy kérdést, és menjen a visszajelzés oldalra.</string>
     <string name="title_friend_detail">Részletek</string>
     <string name="title_friend_list">Barátok</string>
     <string name="title_friend_search">Hozzáad</string>
@@ -5117,7 +5117,7 @@ Győződjön meg róla, hogy a két készülék között nincs más tárgy."</st
     <string name="tr_pay_weixin">WeChat</string>
     <string name="tr_pay_weixin_recommend">WeChat Pay ajánlott</string>
     <string name="tr_pay_zhifubao">Alipay</string>
-    <string name="tr_permission_denied_msg_home_basic">In order to save and share images, the app needs to acquire the \"Access to photos, media content, and other files\" permission.</string>
+    <string name="tr_permission_denied_msg_home_basic">A képek mentéséhez és megosztásához az alkalmazásnak meg kell szereznie a \"Hozzáférés a fényképekhez, médiatartalmakhoz és egyéb fájlokhoz\" engedélyt.</string>
     <string name="tr_plan_day_progress">%1$d/%2$d nap</string>
     <string name="tr_play_again">Ismétlés</string>
     <string name="tr_popular_course">Népszerű tanfolyamok</string>
@@ -5150,8 +5150,8 @@ Győződjön meg róla, hogy a két készülék között nincs más tárgy."</st
     <string name="tr_view_more">Továbbiak megtekintése</string>
     <string name="tr_volume">Hangerő</string>
     <string name="tr_watch_video_not_in_wifi">Ön mobiladat-kapcsolatot használ, mégis folytatja?</string>
-    <string name="track_video_share_subtitle">Tap to check %1$s record.</string>
-    <string name="track_video_share_title">%1$s shared %2$s%3$s record.</string>
+    <string name="track_video_share_subtitle">Koppintson a %1$s rekord ellenőrzéshez.</string>
+    <string name="track_video_share_title">%1$s megosztott %2$s%3$s rekord.</string>
     <string name="train_date_format">Legutóbbi edzés %s</string>
     <string name="training_action_essential">   tippek</string>
     <string name="training_again">Még egyszer</string>
@@ -5485,7 +5485,7 @@ A zsigeri zsír könnyen gyűlik, de nehéz csökkenteni a mennyiségét. Kiegye
     <string name="watch_skin_choiceness">Ajánlott</string>
     <string name="watch_skin_collect">Kedvencek</string>
     <string name="watch_skin_collect_empty">Nincsenek kedvencek</string>
-    <string name="watch_skin_collect_failed">"Couldn't add to favorites"</string>
+    <string name="watch_skin_collect_failed">"Nem sikerült hozzáadni a kedvencekhez"</string>
     <string name="watch_skin_confirm_pay">Fizetés</string>
     <string name="watch_skin_conn_fail">Nem lehet csatlakozni, próbálja újra</string>
     <string name="watch_skin_continue_sync">Szinkronizálás</string>

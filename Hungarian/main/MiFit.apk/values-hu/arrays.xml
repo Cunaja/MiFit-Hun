@@ -81,9 +81,9 @@
     <string-array name="chaohu_help_tips">
         <item>Nyomja meg a gombot az órán, ha a kijelző sötét marad, dugja be tölteni az akkumulátort.</item>
         <item>@string/band_watch_item_2</item>
-        <item>"Ha a karkötő fel van töltve, de a telefon mégsem látja, próbálja meg újraindítani a Bluetooth-t a telefonon."</item>
-        <item>"Ha a Bluetooth újraindítása nem oldja meg a problémát, indítsa újra a telefonját."</item>
-        <item>"Óra adatok nem szinkronizálhatóak a gyakorlás alatt. Fejezze be a folyamatot és próbálja újra."</item>
+        <item>Ha a karkötő fel van töltve, de a telefon mégsem látja, próbálja meg újraindítani a Bluetooth-t a telefonon.</item>
+        <item>Ha a Bluetooth újraindítása nem oldja meg a problémát, indítsa újra a telefonját.</item>
+        <item>Óra adatok nem szinkronizálhatóak a gyakorlás alatt. Fejezze be a folyamatot és próbálja újra.</item>
         <item>@string/watch_music_running_tips</item>
     </string-array>
     <string-array name="chaohu_help_title">
@@ -91,7 +91,7 @@
         <item>Az óra párosítva van másik eszközzel?</item>
         <item>Próbálja újraindítani a Bluetooth-t</item>
         <item>Próbálja meg újraindítani a telefont</item>
-        <item>"Edzések alatt az adatok nem szinkronizálhatóak"</item>
+        <item>Edzések alatt az adatok nem szinkronizálhatóak</item>
         <item>@string/watch_music_running_title</item>
     </string-array>
     <string-array name="chaohu_setting_run_types">
@@ -198,6 +198,28 @@
         <item>Anaerob</item>
         <item>VO₂ max</item>
     </string-array>
+    <string-array name="lab_temperature_elec_item">
+        <item>Hónalj</item>
+        <item>Száj</item>
+        <item>Végbél</item>
+    </string-array>
+    <string-array name="lab_temperature_infrared_item">
+        <item>Csukló</item>
+        <item>Homlok</item>
+        <item>Fül mögött</item>
+        <item>Hallójárat</item>
+        <item>Nyak</item>
+    </string-array>
+    <string-array name="lab_temperature_mercury_item">
+        <item>Hónalj</item>
+        <item>Száj</item>
+        <item>Végbél</item>
+    </string-array>
+    <string-array name="lab_temperature_patch_item">
+        <item>Mellkas</item>
+        <item>Hónalj</item>
+        <item>Ágyék</item>
+    </string-array>
     <string-array name="lock_screen_type">
         <item>Szorosan mellettem</item>
         <item>Közel</item>
@@ -212,8 +234,8 @@
 
 Töltse fel az eszközt, mielőtt egy %1$s vagy %2$s eszközt párosítana."</item>
         <item>@string/band_watch_item_2</item>
-        <item>"Ha a karkötő fel van töltve, de a telefon mégsem látja, próbálja meg újrandítani a Bluetooth-t a telefonon."</item>
-        <item>"Ha a Bluetooth újraindítása nem oldotta meg a problémát, indítsa újra a telefont."</item>
+        <item>Ha a karkötő fel van töltve, de a telefon mégsem látja, próbálja meg újrandítani a Bluetooth-t a telefonon.</item>
+        <item>Ha a Bluetooth újraindítása nem oldotta meg a problémát, indítsa újra a telefont.</item>
         <item>@string/helper_sport_running</item>
         <item>@string/helper_music_running</item>
     </string-array>
@@ -325,11 +347,11 @@ Töltse fel az eszközt, mielőtt egy %1$s vagy %2$s eszközt párosítana."</it
         <item>@string/setting_weather_temp_f</item>
     </string-array>
     <string-array name="shoes_help_tips">
-        <item>"%1$s működése leáll, ha hosszabb ideig nem használja. Rázza meg a(z) %2$s-t, és próbálja újra."</item>
-        <item>"%s elemének élettartama 1 év. Több, mint 1 év használat után előfordulhat, hogy az elem élettartama lejárt."</item>
+        <item>%1$s működése leáll, ha hosszabb ideig nem használja. Rázza meg a(z) %2$s-t, és próbálja újra.</item>
+        <item>%s elemének élettartama 1 év. Több, mint 1 év használat után előfordulhat, hogy az elem élettartama lejárt.</item>
         <item>Először kapcsolja ki a Bluetooth-t a másik eszközön, aztán párosítsa a telefonjával.</item>
-        <item>"Ha a(z) %s fel van töltve, de a telefon mégsem látja, próbálja meg újraindítani a Bluetooth-t a telefonon."</item>
-        <item>"Ha a Bluetooth újraindítása nem oldotta meg a problémát, indítsa újra a telefont."</item>
+        <item>Ha a(z) %s fel van töltve, de a telefon mégsem látja, próbálja meg újraindítani a Bluetooth-t a telefonon.</item>
+        <item>Ha a Bluetooth újraindítása nem oldotta meg a problémát, indítsa újra a telefont.</item>
         <item>Érintse meg a futócipő adatokat, és az automatikus szinkronizálásához lépjen a következő tevékenység oldalra</item>
     </string-array>
     <string-array name="shoes_help_title">
@@ -344,7 +366,7 @@ Töltse fel az eszközt, mielőtt egy %1$s vagy %2$s eszközt párosítana."</it
         <item>Elhízott</item>
         <item>Túlsúlyos</item>
         <item>Zömök</item>
-        <item>"Edzéshiányos"
+        <item>Edzéshiányos
 </item>
         <item>Kiegyensúlyozott</item>
         <item>"Kiegyensúlyozottan
@@ -363,7 +385,7 @@ izmos"</item>
         <item>Futás</item>
         <item>Álldogálás</item>
         <item>Ülés</item>
-        <item>Könnyű tevékenység</item>
+        <item>Könnyed tevékenység</item>
         <item>Viselés nélkül</item>
         <item>Töltés…</item>
         <item>Fekvés</item>
@@ -382,7 +404,7 @@ izmos"</item>
         <item>@string/smart_module</item>
     </string-array>
     <string-array name="visceral_fat_leval">
-        <item>Normál</item>
+        <item>Átlagos</item>
         <item>Magas</item>
         <item>Nagyon magas</item>
     </string-array>
@@ -453,13 +475,13 @@ izmos"</item>
         <item>Próbálja meg újraindítani a telefont</item>
     </string-array>
     <string-array name="weight_body_figures_for_child">
-        <item>Normál</item>
+        <item>Átlagos</item>
         <item>Túlsúlyos</item>
         <item>Elhízott</item>
     </string-array>
     <string-array name="weight_body_figures_for_not_chinese">
         <item>Sovány</item>
-        <item>Normál</item>
+        <item>Átlagos</item>
         <item>Túlsúlyos</item>
         <item>Elhízott I</item>
         <item>Elhízott II</item>
